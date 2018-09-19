@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Aplastodiscus arildae">
+  <name>Aplastodiscus arildae</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Aplastodiscus arildae</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Aplastodiscus arildae]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Aplastodiscus arildae</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2009</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>HYLIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Aplastodiscus</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>arildae</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+<tr>
+<td>centroid_x</td>
+<td>-43.6182</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>centroid_y</td>
+<td>-21.714</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -43.86997661582814,-19.72624721583628,0 -43.89460178464458,-19.72097039426825,0 -44.18042792271041,-19.8089168975967,0 -44.40029418283024,-20.40255580001013,0 -44.59817381666824,-21.01818132780596,0 -44.86201332935161,-21.58983360393762,0 -45.21379934536344,-22.07353937584145,0 -45.6095586130395,-22.35936551390728,0 -45.9833312553331,-22.51327189608111,0 -46.68690328555812,-22.73313815620088,0 -47.10464918041532,-23.21684392810477,0 -47.43444857014538,-23.72253632539105,0 -47.43444857014538,-24.1182955930671,0 -47.32451543963578,-24.22822872267739,0 -47.17060905836132,-24.27220197524093,0 -47.06067592785172,-24.31617522690516,0 -47.08266255413355,-24.29418860062339,0 -47.01670267618749,-24.27220197524093,0 -46.79683641606772,-24.14028221934888,0 -46.44505040005589,-24.00836246255756,0 -46.26915739339893,-23.8544560812831,0 -46.09326438494338,-23.7445229507735,0 -45.71949174264978,-23.72253632539105,0 -45.4776388571475,-23.76650957705527,0 -45.43366560458395,-23.56862994321728,0 -45.14783946741744,-23.41472356194277,0 -44.92797320729761,-23.32677705771499,0 -44.73009357256029,-23.28280380605077,0 -44.68612032089607,-22.99697766798494,0 -44.53221393872224,-22.95300441632071,0 -44.33433430488424,-22.86505791209294,0 -44.20241454899218,-22.97499104170316,0 -43.98254828887241,-22.84307128581116,0 -43.69672215080658,-22.88704453837471,0 -43.54281576863275,-22.99697766798494,0 -43.23500300518452,-22.95300441632071,0 -43.3229495094123,-22.75512478158333,0 -43.25698963056698,-22.64519165197311,0 -42.97116349340047,-22.60121840030888,0 -42.97116349340047,-22.84307128581116,0 -42.9491768671187,-22.90903116375716,0 -42.39951121726881,-22.88704453837471,0 -41.98176532331098,-22.77711140786516,0 -41.98577981058975,-22.71287961320354,0 -41.9860305793477,-22.71253395068123,0 -41.99301147499955,-22.67681884781155,0 -42.00351715099566,-22.65262603796123,0 -42.00124359111879,-22.63997268738956,0 -41.99627304086812,-22.62567520074987,0 -41.99452209501862,-22.61119270288089,0 -41.99241031778189,-22.60679148733721,0 -42.00375194869343,-22.42532539185334,0 -41.73862147630007,-22.20098422214409,0 -41.60694903487001,-22.14246313686425,0 -41.45002128765225,-22.10942571682335,0 -41.2104999907819,-22.07638829588308,0 -41.11138772975988,-22.00205410101592,0 -41.08660966360503,-21.9029418399939,0 -41.07835030881967,-21.69645796226513,0 -41.08660966360503,-21.54778957073205,0 -41.09486902018909,-21.3743431139435,0 -41.05357224356413,-21.27523085292148,0 -40.92142256340054,-21.09352504044819,0 -40.8057915910091,-20.80444761216751,0 -40.74797610571267,-20.72185406071628,0 -40.57452964892411,-20.60622309012348,0 -40.4754173879021,-20.52362953867225,0 -40.41760190170635,-20.38322050282392,0 -40.40934254692098,-20.24281146607626,0 -40.41760190170635,-20.16847727030972,0 -40.50019545315757,-20.10240242932861,0 -40.70667932998703,-20.0528462988176,0 -41.30961225180391,-19.94547468301016,0 -42.48244067539679,-19.77202822622161,0 -42.91192714042512,-19.71421274002591,0 -43.27533876357302,-19.67291596519959,0 -43.49834135087258,-19.64813789904474,0 -43.58093490232386,-19.63987854425938,0 -43.63049103283487,-19.65639725383016,0 -43.86997661582814,-19.72624721583628,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>6600aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

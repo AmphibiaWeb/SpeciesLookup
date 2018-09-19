@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Duttaphrynus_stuarti">
+  <name>Duttaphrynus_stuarti</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Duttaphrynus_stuarti</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Duttaphrynus_stuarti]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Duttaphrynus stuarti</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>BUFONIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Duttaphrynus</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>stuarti</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 97.9117695962899,27.13828506210598,0 98.04095677023884,27.21579736665518,0 98.04095677023884,27.34498454240276,0 98.00650685700589,27.50862162958458,0 97.972056943773,27.57752145605042,0 97.93760703143943,27.68087119574915,0 97.80841985569185,27.83589580484755,0 97.73090755114265,27.88757067514661,0 97.6189453333605,27.9392455454456,0 97.51559559366177,27.98230793676191,0 97.31750859324706,28.03398280616165,0 97.14525902708249,28.07704519837728,0 97.00745937415087,28.10288263262743,0 96.90410963355282,28.10288263262743,0 96.8179848509202,28.09427015364474,0 96.79214741577067,28.08565767556132,0 96.71463511122147,28.05982024131112,0 96.64573528475563,27.9995328929287,0 96.60267289343932,27.9220205883795,0 96.59406041535596,27.76699597928109,0 96.61128537062342,27.66364623868304,0 96.68018519798858,27.58613393413378,0 96.78353493768731,27.517234107668,0 96.82659732900356,27.47417171635169,0 97.00745937415087,27.37943445473633,0 97.23138380971511,27.31053462916987,0 97.48975815941157,27.24163480180471,0 97.6964576379097,27.16412249725551,0 97.9117695962899,27.13828506210598,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

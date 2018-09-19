@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Arthroleptis_troglodytes">
+  <name>Arthroleptis_troglodytes</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Arthroleptis_troglodytes</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Arthroleptis_troglodytes]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Arthroleptis troglodytes</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>Jennifer Luedtke</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2012</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>ARTHROLEPTIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Arthroleptis</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>troglodytes</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 33.03813340483282,-19.81173183855344,0 33.04401612664299,-19.80327542701929,0 33.04916350878898,-19.79408367402232,0 33.0543108900356,-19.78525959085738,0 33.05651691082682,-19.78084755017426,0 33.0469574879977,-19.77496482836409,0 33.04033942562404,-19.77312647740496,0 33.03298602358615,-19.7698174462181,0 33.02011756957023,-19.76246404418026,0 33.01202882696884,-19.75621365163869,0 33.00467542493095,-19.75216927988834,0 33.00246940413973,-19.75511064124305,0 33.00541076459518,-19.76467006407216,0 33.00908746561407,-19.78047988034217,0 33.01497018832356,-19.78231823040198,0 33.02342660075709,-19.78158288983843,0 33.02783864233953,-19.7845242511932,0 33.02967699329867,-19.79445134385441,0 33.02967699329867,-19.80474610724701,0 33.03004466313075,-19.80952581866154,0 33.03298602358615,-19.8135701904119,0 33.03813340483282,-19.81173183855344,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

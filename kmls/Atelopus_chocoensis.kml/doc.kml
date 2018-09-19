@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Atelopus_chocoensis">
+  <name>Atelopus_chocoensis</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Atelopus_chocoensis</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Atelopus_chocoensis]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Atelopus chocoensis</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>BUFONIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Atelopus</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>chocoensis</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -76.41159110924224,4.842825810662703,0 -76.42960130755427,4.844903910986773,0 -76.45315310762976,4.848367410627532,0 -76.47462680738124,4.849060110735593,0 -76.49610050623335,4.846289311202781,0 -76.51272530612795,4.840055012029211,0 -76.52034500641685,4.832435311740312,0 -76.52311580594966,4.821352111810541,0 -76.5224231058416,4.813732412420961,0 -76.5154961056607,4.805420012024001,0 -76.50718370616306,4.80264921159187,0 -76.48778810673571,4.793644112885545,0 -76.46562170687622,4.779097413315014,0 -76.45800200658732,4.771477713026059,0 -76.44345530791611,4.750696714282015,0 -76.43722100784322,4.731993814063344,0 -76.43375750820241,4.708442014887112,0 -76.43445020831041,4.693202615208577,0 -76.43860640805923,4.684197514703612,0 -76.45384580773782,4.662031115743446,0 -76.46908520741636,4.644020917431419,0 -76.47670490680599,4.631552317285639,0 -76.48571000731096,4.612849417066968,0 -76.48778810673571,4.600380817820508,0 -76.48571000731096,4.589297617890793,0 -76.47878300713006,4.580985218393153,0 -76.47116330684111,4.573365518104254,0 -76.4607728070194,4.567823918139368,0 -76.44899690788094,4.567131218031364,0 -76.43860640805923,4.570594717672122,0 -76.41990350784056,4.590683018106859,0 -76.40674220938541,4.605922416886074,0 -76.36656561031464,4.659260316210691,0 -76.35825320991768,4.668265415816336,0 -76.34370651034715,4.688353715351752,0 -76.33400871063344,4.704285815138292,0 -76.33123791110069,4.715369015068063,0 -76.32915981077662,4.726452214098458,0 -76.3367795101662,4.754852914030778,0 -76.34509190966384,4.774941212666874,0 -76.36379480988251,4.801263813174501,0 -76.38111230898585,4.824122912242672,0 -76.39842980898845,4.837976911705141,0 -76.41159110924224,4.842825810662703,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

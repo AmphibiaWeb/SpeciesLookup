@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Allobates_mcdiarmidi">
+  <name>Allobates_mcdiarmidi</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Allobates_mcdiarmidi</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Allobates_mcdiarmidi]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Allobates mcdiarmidi</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>AROMOBATIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Allobates</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>mcdiarmidi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -67.9753594957441,-16.05186877882102,0 -66.55157204101681,-17.15206817700471,0 -65.64388778469345,-17.38067013671741,0 -65.64028398811553,-17.38243526217758,0 -65.6377530521616,-17.38221518098578,0 -65.62800035333362,-17.38467141655258,0 -65.62627310731801,-17.38121692542075,0 -65.50402277662982,-17.37058646219543,0 -65.35591276606124,-17.3528132604236,0 -65.61066198636155,-17.13361044366701,0 -66.19125322955284,-16.60041440310215,0 -66.39860724632734,-16.28642117929394,0 -66.54079285600545,-16.00797435813007,0 -66.4519268498442,-15.68213233344039,0 -66.45785124983524,-15.51624912020071,0 -66.54671725689587,-15.41553431315799,0 -66.754071272771,-15.36813910873286,0 -66.88440808336634,-15.3562903078514,0 -66.9555008877557,-15.44515631491197,0 -66.99104729129942,-15.56364432372652,0 -67.10953530011398,-15.77099833960165,0 -67.23987210980999,-15.81246914313641,0 -67.32873811597125,-15.80062034225495,0 -67.37613332039638,-15.78877154137348,0 -68.11668337593699,-14.95343107788187,0 -68.38328139711877,-14.82309426818586,0 -68.60248421297598,-14.81124546730445,0 -68.69135022003661,-14.91196027524649,0 -68.72097222179059,-15.07784348668753,0 -68.64395501561143,-15.29704630434344,0 -68.43660100063562,-15.59326632637982,0 -68.19962498300652,-15.83024234400892,0 -67.96168482739284,-16.0473105560373,0 -67.9753594957441,-16.05186877882102,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

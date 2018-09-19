@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Atelopus_tricolor">
+  <name>Atelopus_tricolor</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Atelopus_tricolor</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Atelopus_tricolor]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Atelopus tricolor</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>BUFONIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Atelopus</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>tricolor</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -71.83623679808972,-12.98407397963041,0 -71.82103070390383,-12.96886788634384,0 -71.88185508064743,-12.96886788634384,0 -71.94267945739102,-12.96886788634384,0 -71.94267945739102,-13.06010444966057,0 -71.92747336320508,-13.12092882640417,0 -71.77541242224544,-13.12092882640417,0 -71.69938195221528,-13.16654710896188,0 -71.65376366875825,-13.18175320314776,0 -71.53211491706975,-13.21216539062021,0 -71.42567225776844,-13.25778367317793,0 -71.25840522262291,-13.3794324257658,0 -71.12155037674847,-13.45546289579596,0 -70.96948943578877,-13.45546289579596,0 -70.86304677738684,-13.51628727164024,0 -70.74139802479897,-13.51628727164024,0 -70.66536755476881,-13.51628727164024,0 -70.55892489636682,-13.51628727164024,0 -70.37645176703541,-13.51628727164024,0 -70.22439082607571,-13.53149336582612,0 -70.14836035604554,-13.71396649515759,0 -69.95068113342751,-13.82040915355952,0 -69.87465066339735,-13.88123353030312,0 -69.73779581572427,-13.85082134193135,0 -69.66176534479479,-13.86602743611724,0 -69.58573487476463,-13.88123353030312,0 -69.47929221726196,-13.9572640012326,0 -69.35764346377482,-13.98767618870511,0 -69.2664068986594,-14.07891275292116,0 -69.17517033534267,-14.15494322385064,0 -69.02310939438303,-14.17014931803658,0 -69.022840490796,-14.16970114629083,0 -68.45934737508128,-14.60350340295963,0 -67.56826242377179,-15.56184004897904,0 -67.23200395202071,-15.78040805588705,0 -66.81168086188222,-16.36886038190107,0 -66.39135777174374,-16.70511885365215,0 -65.63477620985418,-17.2431324086337,0 -65.0463238838401,-17.5793908812841,0 -64.75023963874827,-17.73513347762787,0 -64.67643956383478,-17.74752011715964,0 -64.63574428167323,-17.70475715871584,0 -64.62600079370162,-17.66345549877218,0 -64.63107100322418,-17.61129156185604,0 -64.65962664105661,-17.54576503392912,0 -64.84456879971032,-17.41126164540856,0 -65.55071159236604,-17.02456440172574,0 -65.9374088351496,-16.77237054836206,0 -66.17278976483573,-16.43611207571166,0 -66.27366730690068,-16.23435699338052,0 -66.44179654277616,-15.9317243680851,0 -66.44179654277616,-15.76359513220956,0 -66.42498361909873,-15.56184004897904,0 -66.44179654277616,-15.51140127794656,0 -66.64355162600668,-15.3937108131035,0 -67.06387471614522,-15.27602034736111,0 -67.31606857040816,-15.22558157722796,0 -67.73639165964733,-14.83888433444446,0 -67.93814674377717,-14.60350340295963,0 -68.15671475068518,-14.26724493120855,0 -68.77879292405419,-13.76285722268261,0 -69.03937968422503,-13.64112861209571,0 -69.03831548766959,-13.63793602512743,0 -69.04292493673643,-13.63947250784992,0 -69.04668027537434,-13.63771826688446,0 -69.0989835811273,-13.65314211931332,0 -69.19037642862924,-13.65314211931332,0 -69.41846783961904,-13.62272993094149,0 -69.54011659310623,-13.6075238367556,0 -69.75300190991015,-13.6075238367556,0 -69.84423847412626,-13.54669946001201,0 -69.88985675668391,-13.3794324257658,0 -69.88985675668391,-13.21216539062021,0 -70.04191769674429,-13.13613491969073,0 -70.30042129700519,-13.01448616800218,0 -70.34603957866358,-13.04489835637401,0 -70.51330661380916,-13.21216539062021,0 -70.63495536639698,-13.27298976736381,0 -70.96948943578877,-13.24257757899204,0 -71.12155037674847,-13.13613491969073,0 -71.39526007029599,-13.06010444966057,0 -71.63855757457236,-12.99928007381629,0 -71.83623679808972,-12.98407397963041,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Gastrotheca_riobambae">
+  <name>Gastrotheca_riobambae</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Gastrotheca_riobambae</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Gastrotheca_riobambae]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Gastrotheca riobambae</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>HEMIPHRACTIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Gastrotheca</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>riobambae</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -78.14206436357949,0.5036155390259296,0 -78.2521130857503,0.3173792406594771,0 -78.27750894478191,0.2877507377064035,0 -78.34523123493352,0.3046813106939794,0 -78.46374524404774,-0.03816278488454827,0 -78.51876960513312,-0.09741978899199921,0 -78.52723489117727,-0.2540275862040744,0 -78.54416546416479,-0.3132845903115253,0 -78.54839810718687,-0.3513783784093789,0 -78.54839810718687,-0.4191006685609295,0 -78.57379396621855,-0.4529618136367617,0 -78.54839810718687,-0.486822958712537,0 -78.62458568428184,-0.8846914162758139,0 -78.62881832730392,-0.948181064304606,0 -78.69230797443345,-1.227535511854342,0 -79.02245414004648,-1.574612251354267,0 -78.7684955506291,-1.718522117701525,0 -78.66691211540177,-1.68466097262575,0 -78.40448823904097,-1.396841238132595,0 -78.48067581613594,-0.7026877609313829,0 -78.45951260012635,-0.6138022538708583,0 -78.15899493566769,-0.4614271005801811,0 -78.1082032176044,-0.4614271005801811,0 -78.14206436357949,-0.3556110223307769,0 -78.17169286563319,0.1438408713591457,0 -77.99815449633292,0.2877507377064035,0 -78.10397057458232,0.3597056717793521,0 -78.14206436357949,0.5036155390259296,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Anomaloglossus_baeobatrachus">
+  <name>Anomaloglossus_baeobatrachus</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Anomaloglossus_baeobatrachus</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Anomaloglossus_baeobatrachus]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Anomaloglossus baeobatrachus</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>AROMOBATIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Anomaloglossus</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>baeobatrachus</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -59.59178414042572,-3.131513011616164,0 -58.62399085059724,-3.002473907444824,0 -57.6992105972912,-2.74439569640424,0 -55.9786891948504,-1.884134994734154,0 -54.4947394847394,-0.9593547414281147,0 -53.03229629333924,0.6321275559420201,0 -52.38710076708668,1.51389477542358,0 -51.84943782899256,2.481688064352738,0 -51.63437265267572,3.234416176965056,0 -51.59135961795198,3.492494388005639,0 -51.59135961795198,3.75057259814696,0 -51.63437265267572,3.922624737941362,0 -51.74190524083417,4.202209465894157,0 -52.06450300441009,4.524807228570808,0 -52.55915290688108,4.890418026870464,0 -53.35489405601584,5.213015790446434,0 -54.53775252036246,5.600133105658358,0 -55.57006536092763,5.707665692917431,0 -56.96798900069177,5.793691764163611,0 -57.48414542187368,5.75067872764123,0 -58.12934094812624,5.535613553123028,0 -58.51645826333817,5.213015790446434,0 -59.26918637684975,3.965637772665104,0 -60.12944707762051,1.707453433029571,0 -60.49505787592022,-0.6582634956637321,0 -60.45204484119643,-2.314265345569197,0 -60.38752528776178,-2.701382660781121,0 -60.17246011324357,-3.174526047239226,0 -59.91438190310231,-3.174526047239226,0 -59.59178414042572,-3.131513011616164,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Adelophryne_adiastola">
+  <name>Adelophryne_adiastola</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Adelophryne_adiastola</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Adelophryne_adiastola]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Adelophryne adiastola</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>ELEUTHERODACTYLIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Adelophryne</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>adiastola</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -73.72254158722444,-5.429607663762624,0 -73.76209479513864,-5.558155589708633,0 -73.76209479513864,-5.694145048555072,0 -73.70769901070077,-5.88453029183944,0 -73.43572009210851,-5.966123967147325,0 -73.21813695795419,-6.12931131776304,0 -73.21813695795419,-5.88453029183944,0 -72.94615803936199,-5.666947156785795,0 -72.89176225492406,-5.449364021732151,0 -72.89176225492406,-5.286176671116436,0 -72.89176225492406,-5.150187212269998,0 -72.52161891757896,-4.89951013928146,0 -72.32060652686965,-4.796614618369915,0 -72.32060652686965,-4.71502094216271,0 -72.15741917625394,-4.71502094216271,0 -71.83104447412313,-4.470239916239109,0 -71.42307609578518,-4.443042023570456,0 -71.20549296073153,-4.33425045739267,0 -71.01510771834649,-4.33425045739267,0 -70.87911825860073,-4.33425045739267,0 -70.79752458419216,-4.198260996747536,0 -70.6615351244464,-4.116667322339026,0 -70.44395199029208,-4.171063104978259,0 -70.32561624299518,-4.076394508399801,0 -70.30425376689777,-4.077106590696531,0 -70.25356674700771,-4.279854672954741,0 -70.0631815037234,-4.279854672954741,0 -69.9271920448769,-4.198260996747536,0 -69.95716356904342,-4.17257111876205,0 -69.51989539085957,-1.822254661923068,0 -69.51989539085957,-1.312919136209132,0 -69.53366121629205,-1.037602634753739,0 -69.61625616618909,-0.8999443849253908,0 -69.69885111608608,-0.5695645844379556,0 -69.83650936591448,-0.4456721591427595,0 -70.05676256743851,-0.2529506093830491,0 -70.11182586736982,-0.06022905782469934,0 -70.07052839197166,0.4766381178549182,0 -70.04299674200598,0.6280621931157953,0 -69.90533849217763,0.7106571430127815,0 -69.60249034075656,0.7519546184109345,0 -69.35470549016623,0.7519546184109345,0 -69.29964219023486,0.7519546184109345,0 -69.21704724033782,0.7932520938091443,0 -69.23081306487103,0.9033786936718116,0 -69.3409396647337,1.027271118967008,0 -69.71261694061928,1.08233441889837,0 -70.19442081726686,1.08233441889837,0 -70.60739556765128,1.096100244330842,0 -71.21309186869473,0.9309103436374926,0 -71.90138312143387,0.3252140425940411,0 -72.24552874735377,-0.2116531339848962,0 -73.08524407355509,-2.042507863447099,0 -73.58081377473587,-3.735704341282258,0 -73.71847202456422,-5.291242570188445,0 -73.72254158722444,-5.429607663762624,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

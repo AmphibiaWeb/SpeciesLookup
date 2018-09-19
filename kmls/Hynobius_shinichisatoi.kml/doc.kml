@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Hynobius shinichisatoi">
+  <name>Hynobius shinichisatoi</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Hynobius shinichisatoi</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Hynobius shinichisatoi]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Hynobius shinichisatoi</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>AmphibiaWeb</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2015</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>AmphibiaWeb (amphibiaweb.org), University of California, Berkeley.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>Nishikawa and Matsui 2014</td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>CAUDATA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>HYNOBIIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Hynobius</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>shinichisatoi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td>Sobo Salamander</td>
+</tr>
+<tr>
+<td>centroid_x</td>
+<td>131.41</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>centroid_y</td>
+<td>32.8212</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 131.2779227151613,32.86813403685636,0 131.2734637217734,32.85315194850369,0 131.2734637217734,32.83348411709835,0 131.2790374626089,32.79788363282347,0 131.2957586878133,32.76695585323012,0 131.3292011382221,32.73789269289352,0 131.3682173294662,32.72007510148478,0 131.4161515083855,32.71444775386078,0 131.4618561897114,32.72288864219712,0 131.4964133875678,32.73601732493967,0 131.5220525995479,32.75476923101525,0 131.546577063181,32.7838268839036,0 131.5499213082219,32.81662250772263,0 131.5476918115279,32.83348411709835,0 131.5354295797114,32.8597069234358,0 131.5198231028539,32.87468790562241,0 131.4986428842618,32.89528262149582,0 131.4774626665688,32.91025759081521,0 131.4417907194662,32.92055141261767,0 131.4094630183038,32.92429432442361,0 131.3604140910376,32.92616572007199,0 131.3258568931811,32.9111934424235,0 131.3002176812011,32.89247453337305,0 131.2779227151613,32.86813403685636,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>6600aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

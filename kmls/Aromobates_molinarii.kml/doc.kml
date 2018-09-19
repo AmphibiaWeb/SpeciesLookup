@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Aromobates_molinarii">
+  <name>Aromobates_molinarii</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Aromobates_molinarii</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Aromobates_molinarii]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Aromobates molinarii</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>AROMOBATIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Aromobates</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>molinarii</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -71.68102301120297,8.252206777820561,0 -71.68601972992656,8.267196934890706,0 -71.69851152718519,8.275941193331448,0 -71.68976726874439,8.279688732149339,0 -71.68851808883869,8.285934629879307,0 -71.69726234727949,8.29842642713794,0 -71.69101644775083,8.30717068467942,0 -71.6835213701151,8.318413302931617,0 -71.67227875276217,8.318413302931617,0 -71.65853777559784,8.314665763214464,0 -71.64479680023209,8.314665763214464,0 -71.63730172079772,8.308419864585119,0 -71.62730828424986,8.309669045390194,0 -71.61856402580912,8.310918224396573,0 -71.63355418197989,8.337150997920276,0 -71.64229844042063,8.353390333996742,0 -71.64229844042063,8.364632951349677,0 -71.6572885965914,8.37712474860831,0 -71.66978039385003,8.378373927614689,0 -71.67977383129721,8.378373927614689,0 -71.67977383129721,8.367131311161131,0 -71.6847705500208,8.362134592437542,0 -71.68601972992656,8.374626388796855,0 -71.69601316737374,8.387118186055488,0 -71.72474429980957,8.390865724873379,0 -71.73723609706821,8.392114904779078,0 -71.7422328157918,8.388367365961244,0 -71.75722297286188,8.374626388796855,0 -71.75597379295613,8.389616545866943,0 -71.75472461305043,8.403357522132012,0 -71.76471805139693,8.403357522132012,0 -71.78095738657407,8.402108343125576,0 -71.79220000392701,8.407105060949846,0 -71.79469836373846,8.407105060949846,0 -71.80843934000347,8.399609983314122,0 -71.81968195825573,8.393364084684833,0 -71.83217375461504,8.382121467331899,0 -71.84091801305584,8.370878849978965,0 -71.85465898932085,8.36838049106683,0 -71.85465898932085,8.388367365961244,0 -71.8609048879502,8.392114904779078,0 -71.87089832539738,8.389616545866943,0 -71.87464586511453,8.395862443596968,0 -71.8796425829388,8.395862443596968,0 -71.88339012175669,8.393364084684833,0 -71.89088520119105,8.388367365961244,0 -71.89713109892102,8.382121467331899,0 -71.90587535736182,8.38087228832552,0 -71.91337043499755,8.38087228832552,0 -71.91461961490325,8.370878849978965,0 -71.91337043499755,8.352141154091044,0 -71.90587535736182,8.337150997920276,0 -71.90337699755037,8.318413302931617,0 -71.91087207608541,8.302173965955831,0 -71.91461961490325,8.282187091061473,0 -71.90087863773891,8.273442832620674,0 -71.89088520119105,8.258452677349226,0 -71.88463930166239,8.244711700184837,0 -71.86340324686233,8.22847236410837,0 -71.83092457470934,8.223475645384781,0 -71.81468523863282,8.217229746755436,0 -71.81343605872706,8.203488769591104,0 -71.81468523863282,8.1872494344139,0 -71.79969508156273,8.1872494344139,0 -71.79095082492057,8.19099697323179,0 -71.78345574638553,8.192246153137489,0 -71.78470492629128,8.174757637155267,0 -71.78345574638553,8.159767480085179,0 -71.77096394912689,8.148524862732302,0 -71.77096394912689,8.1585183010788,0 -71.75722297286188,8.164764198808769,0 -71.74972789432684,8.181003534885292,0 -71.7484787153204,8.197242871861079,0 -71.74598035460963,8.214731386943981,0 -71.7384852769739,8.220977285573326,0 -71.73223937924394,8.217229746755436,0 -71.72724265962103,8.210983848126148,0 -71.72349512080314,8.203488769591104,0 -71.71600004226809,8.193495332143925,0 -71.71100332444382,8.188498614319656,0 -71.69976070619163,8.203488769591104,0 -71.69476398836736,8.220977285573326,0 -71.69101644775083,8.229721544014069,0 -71.68102301120297,8.240964161367003,0 -71.68102301120297,8.252206777820561,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Batrachoseps_campi">
+  <name>Batrachoseps_campi</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Batrachoseps_campi</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Batrachoseps_campi]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Presence</td>
+<td>1</td>
+</tr>
+<tr>
+<td>id_no</td>
+<td>2649</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Batrachoseps campi</td>
+</tr>
+<tr>
+<td>origin</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>seasonal</td>
+<td>1</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>AmphibiaWeb</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2016</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>AmphibiaWeb (amphibiaweb.org), University of California, Berkeley.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>modified from R.C. Stebbins, 2003; voucher data from VertNet, 27 Apr 2016.</td>
+</tr>
+<tr>
+<td>dist_comm</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>island</td>
+<td></td>
+</tr>
+<tr>
+<td>subspecies</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>subpop</td>
+<td></td>
+</tr>
+<tr>
+<td>legend</td>
+<td>Current</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tax_comm</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>CAUDATA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>PLETHODONTIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Batrachoseps</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>campi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>code</td>
+<td>EN</td>
+</tr>
+<tr>
+<td>Colloquial</td>
+<td>Inyo Mountains Slender Salamander</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vetted_by</td>
+<td>MSK</td>
+</tr>
+<tr>
+<td>shape_Leng</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -118.0142762839415,36.6432502148804,0 -118.0000382660349,36.62784234441936,0 -117.9896348194638,36.61025192035906,0 -117.9553329063514,36.59680377032775,0 -117.9163099947383,36.59397756609675,0 -117.8762426570859,36.59683458712507,0 -117.8377056503126,36.60827866264423,0 -117.832071939755,36.61858109225192,0 -117.8305811329825,36.62130682945909,0 -117.8241475400285,36.64731990758467,0 -117.8228913212252,36.66015535960845,0 -117.8311501778361,36.68245264328782,0 -117.8350884662133,36.70038383282272,0 -117.8530127509602,36.73720800842843,0 -117.863115811163,36.74804099354572,0 -117.8716558533246,36.76105314504832,0 -117.8877947523789,36.78920142770631,0 -117.8988970373162,36.80654292297282,0 -117.9081833353462,36.82527971008229,0 -117.9104043056705,36.84174807992518,0 -117.9036938284554,36.85877272766253,0 -117.9020924422617,36.88445922924163,0 -117.9120254977275,36.91249234642158,0 -117.9184753029846,36.93760597922341,0 -117.9125523027761,36.95821600941535,0 -117.9108731167482,36.98675761585456,0 -117.9248328152436,37.01234418240781,0 -117.9395704081237,37.0220956783098,0 -117.967825230845,37.02884656020971,0 -118.0168320605988,37.02779447767144,0 -118.0443774555569,37.01874897576251,0 -118.0538909935258,37.01562287697517,0 -118.0726532334521,36.99645198138261,0 -118.0858563105029,36.93930813405518,0 -118.0857339266378,36.82525107370372,0 -118.0470744560003,36.69735167117552,0 -118.0142762839415,36.6432502148804,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

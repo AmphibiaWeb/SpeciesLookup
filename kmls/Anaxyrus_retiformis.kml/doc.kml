@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Anaxyrus_retiformis">
+  <name>Anaxyrus_retiformis</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Anaxyrus_retiformis</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Anaxyrus_retiformis]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Anaxyrus retiformis</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>AmphibiaWeb</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2015</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>AmphibiaWeb (amphibiaweb.org), University of California, Berkeley.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>modified from R. C. Stebbins, 2003; voucher data from VertNet, 9 Jun 2015.</td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>BUFONIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Anaxyrus</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>retiformis</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td>Sonoran Green Toad</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -111.2085921954734,31.3753975843311,0 -111.2547993055435,31.79024381849746,0 -111.3154755612481,32.06864075606609,0 -111.4296896895275,32.32562254424505,0 -111.5653189671966,32.52192807761873,0 -111.7045174364305,32.62543463120329,0 -111.9757759908692,32.65398816282351,0 -112.204204247428,32.64684978059296,0 -112.4362016955518,32.60758867337864,0 -112.6503531858508,32.51478969448885,0 -112.775274888825,32.44340586408941,0 -112.8859198255395,32.32205335268014,0 -112.9465960812441,32.19713164970591,0 -112.9287501234194,32.05436398980635,0 -112.9077837860928,31.90777738761642,0 -112.8502279098901,31.68316807244861,0 -112.7859824635198,31.55824637037375,0 -112.6646299521105,31.41547870957481,0 -112.5539850153961,31.30483377286038,0 -112.4433400786817,31.14778934670102,0 -112.3362643326328,31.00145249433717,0 -112.3148491841425,30.86582321756748,0 -112.3077108010126,30.66951768419381,0 -112.2755880778275,30.55887274747937,0 -112.2291885874833,30.42681266137527,0 -112.1221128423338,30.25192227829058,0 -112.029313863444,30.10915461749164,0 -111.9008229689048,30.00207887234211,0 -111.7473477343104,29.8271884883581,0 -111.675963903911,29.71654355164367,0 -111.633133606031,29.60589861492917,0 -111.5688881587615,29.44528499720491,0 -111.5153502861867,29.26682542165594,0 -111.4332588810925,29.0419663566621,0 -111.3404599022027,28.79212295071363,0 -111.2012614329688,28.50658763001519,0 -111.069201347764,28.299574522846,0 -110.9764023679749,28.20320635149199,0 -110.8728958143903,28.1853603945666,0 -110.7658200692408,28.22819069244656,0 -110.6516059409614,28.28529775658626,0 -110.5552377705067,28.41021945956044,0 -110.5159766632924,28.53514116253467,0 -110.5695145358671,28.73144669500903,0 -110.5730837274321,28.89562950429826,0 -110.5409610042469,29.11335018616222,0 -110.537391812682,29.27396380478581,0 -110.537391812682,29.41316227312046,0 -110.5873604936918,29.55949912548431,0 -110.6944362388413,29.73082031790341,0 -110.8157887502506,29.89500312719264,0 -110.8764650059553,30.02706321239737,0 -110.8889571764325,30.22336874577104,0 -110.9246490911826,30.45179700232984,0 -111.0245864532022,30.64453334413855,0 -111.1673541140011,30.88723836605777,0 -111.1816308802609,31.15135853826598,0 -111.2085921954734,31.3753975843311,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

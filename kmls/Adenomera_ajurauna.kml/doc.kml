@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Adenomera_ajurauna">
+  <name>Adenomera_ajurauna</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Adenomera_ajurauna</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Adenomera_ajurauna]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Presence</td>
+<td>1</td>
+</tr>
+<tr>
+<td>id_no</td>
+<td>158471</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Adenomera ajurauna</td>
+</tr>
+<tr>
+<td>origin</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>seasonal</td>
+<td>1</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2009</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>Berneck, Costa and Garcia, 2008</td>
+</tr>
+<tr>
+<td>dist_comm</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>island</td>
+<td></td>
+</tr>
+<tr>
+<td>subspecies</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>subpop</td>
+<td></td>
+</tr>
+<tr>
+<td>legend</td>
+<td>Extant (resident)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tax_comm</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>LEPTODACTYLIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Adenomera</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>ajurauna</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>code</td>
+<td>DD</td>
+</tr>
+<tr>
+<td>Colloquial</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vetted_by</td>
+<td></td>
+</tr>
+<tr>
+<td>shape_Leng</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -46.11916191009402,-23.73905799732864,0 -46.11495282661161,-23.73484891294692,0 -46.10232557526507,-23.72432620289192,0 -46.10653465874748,-23.71275122309044,0 -46.12684348823638,-23.70643759741716,0 -46.14788890744705,-23.70328078368118,0 -46.17493227140716,-23.7043330552263,0 -46.2128140254469,-23.70328078368118,0 -46.24543442355974,-23.70643759741716,0 -46.2762659631037,-23.72537847443698,0 -46.29731138231438,-23.7464238927484,0 -46.31593657841034,-23.76326022757741,0 -46.36781353536634,-23.7937760861974,0 -46.4130611857251,-23.81692604669968,0 -46.48461561032212,-23.8516509879027,0 -46.514079197397,-23.86848732273171,0 -46.54354278357255,-23.89374182632417,0 -46.58879043393137,-23.88848047129665,0 -46.65087442001845,-23.87901003278677,0 -46.67086756768407,-23.87374867775924,0 -46.68139027773907,-23.86006915576689,0 -46.67297210987493,-23.81376923386301,0 -46.66244940071925,-23.76852158260493,0 -46.66665848420166,-23.75694660280345,0 -46.6761289227116,-23.75273751932099,0 -46.68454708967641,-23.75799887434852,0 -46.69086071624901,-23.7706261247958,0 -46.69506979973141,-23.7937760861974,0 -46.70874932172376,-23.85796461357603,0 -46.70559250888715,-23.87901003278677,0 -46.69506979973141,-23.89058501258819,0 -46.66981529703827,-23.89584636761572,0 -46.63509035583519,-23.90531680612565,0 -46.5856336210947,-23.91583951618071,0 -46.53617688725348,-23.91689178682645,0 -46.50039967540465,-23.89374182632417,0 -46.46567473330225,-23.86743505208597,0 -46.40359074811448,-23.83797146591036,0 -46.35202947118313,-23.81692604669968,0 -46.30530864138063,-23.78325337614234,0 -46.26258644111135,-23.75484206061259,0 -46.23901557091182,-23.73590118359272,0 -46.21312970637081,-23.73484891294692,0 -46.18892747432346,-23.73379664230117,0 -46.15735934595699,-23.74011026797444,0 -46.11916191009402,-23.73905799732864,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

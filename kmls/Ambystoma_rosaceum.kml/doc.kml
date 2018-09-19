@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Ambystoma rosaceum">
+  <name>Ambystoma rosaceum</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Ambystoma rosaceum</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Ambystoma rosaceum]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Ambystoma rosaceum</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2009</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>CAUDATA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>AMBYSTOMATIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Ambystoma</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>rosaceum</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+<tr>
+<td>centroid_x</td>
+<td>-107.111</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>centroid_y</td>
+<td>26.6897</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -108.0713195305718,30.55945742192256,0 -108.0989889710641,30.5871268606162,0 -108.1789057668876,30.65562697170742,0 -108.2474058779789,30.72412708369802,0 -108.3501560450654,30.83829393641611,0 -108.4186561561567,30.91821073223957,0 -108.4643228968841,30.96387747296706,0 -108.5556563792385,31.00954421369454,0 -108.658406546325,31.04379426879052,0 -108.783990082876,31.04379426879052,0 -108.93240699069,31.03237758405828,0 -109.0009071017813,31.0209608993261,0 -109.0808238976048,30.99812752806304,0 -109.1721573799591,30.95246078823482,0 -109.2634908614141,30.90679404660801,0 -109.3319909734047,30.86112730588053,0 -109.4119077692282,30.80404388042081,0 -109.5603246770422,30.6670436582383,0 -109.6174081034012,30.55287680641953,0 -109.6221892834087,30.5289709036843,0 -109.5891013241667,30.49381494710218,0 -109.4965692838454,30.36658339300925,0 -109.4040372453226,30.25670159580204,0 -109.3230717095917,30.08898727474298,0 -109.2536726811493,29.81717440877202,0 -109.2016234086933,29.56849455288136,0 -109.172707147217,29.27354867772937,0 -109.1842736509082,28.92077027782614,0 -109.2594559334445,28.52172585776219,0 -109.2825889426256,28.38871105227332,0 -109.2617033976936,28.22205184821428,0 -109.1206578738618,27.96653362212902,0 -108.9992095729634,27.70050400935259,0 -108.8719780188704,27.36507536723445,0 -108.7794459794484,27.08169599577366,0 -108.7273967069924,26.90819842241933,0 -108.6348646675703,26.72313434357517,0 -108.4729335988065,26.56120327481136,0 -108.3443922603944,26.44363716912011,0 -108.2101764094138,26.32731676475692,0 -108.0670128346745,26.2109963612931,0 -107.9149015370762,26.03204189331876,0 -107.8433197497067,25.92466921181472,0 -107.7448947928604,25.74571474384038,0 -107.6375221122556,25.5399171063894,0 -107.524480196304,25.27153797699612,0 -107.0271204836234,24.83201078996603,0 -106.5179196691574,24.34007561070092,0 -106.2600709534117,24.24798678326351,0 -106.0722097455833,24.13011308515081,0 -105.9506524936177,24.00487228023161,0 -105.8880320916077,23.84279594397771,0 -105.6672020883057,23.31751063420848,0 -105.1034352846107,22.84086950462398,0 -105.0739668600825,22.79298331532777,0 -105.0002957983124,22.71194514675119,0 -104.9155740767822,22.65300829769484,0 -104.8271688031977,22.63827408498111,0 -104.7534977423269,22.67142606336216,0 -104.6614089139902,22.63090697907387,0 -104.609839170841,22.47251419667288,0 -104.4882819188754,22.40989379376362,0 -104.3409397962346,22.44672932509832,0 -104.3041042648999,22.29570364860456,0 -104.2292331271071,22.2832251253393,0 -104.2105740193755,22.21791824603031,0 -104.1733015236464,22.1167500448787,0 -104.1573275972908,21.99960791917016,0 -104.0881072497497,21.90908900225571,0 -103.9390172704307,21.86649186530741,0 -103.8484983544155,21.87181650742593,0 -103.8005765753487,21.92506292861134,0 -103.7207069426713,22.159347181827,0 -103.7207069426713,22.54272141616048,0 -103.7313562269083,22.76103174302057,0 -103.7395604802319,22.77634634940455,0 -103.7405206432131,22.80035042123501,0 -103.7833440226085,22.93180432201189,0 -104.0655441724256,23.2543187768901,0 -104.9658970268263,24.20842404163625,0 -105.1334389379566,24.76274718503458,0 -105.4267695758552,25.11264604657782,0 -106.0391110403422,26.24475607902986,0 -107.3290076689687,28.11098950016537,0 -107.6857875879268,29.67533222140497,0 -107.7681214151712,29.94977831311871,0 -108.0087750277453,30.48677099458581,0 -108.0713195305718,30.55945742192256,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>6600aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

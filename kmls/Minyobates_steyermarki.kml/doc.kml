@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Minyobates_steyermarki">
+  <name>Minyobates_steyermarki</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Minyobates_steyermarki</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Minyobates_steyermarki]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Minyobates steyermarki</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>DENDROBATIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Minyobates</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>steyermarki</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -66.67972383268869,3.798584864300096,0 -66.68729450463763,3.795906010554006,0 -66.69300162842239,3.785772956956464,0 -66.69451576209269,3.779367004183939,0 -66.69206985344096,3.774824601374291,0 -66.68799333722268,3.770515140961038,0 -66.69055571797196,3.765856266053902,0 -66.69568048126916,3.762362109423862,0 -66.68799333722268,3.758867952793821,0 -66.68624625755871,3.76061503065921,0 -66.67984030478618,3.762362109423862,0 -66.67553084527225,3.7673703997242,0 -66.67075549826757,3.770981027552409,0 -66.66376718500754,3.769816310174633,0 -66.6547988496871,3.769117477589589,0 -66.65048939107248,3.770515140961038,0 -66.64548109987283,3.779599948378973,0 -66.64489874028459,3.787054148230425,0 -66.63849278661274,3.794857764374399,0 -66.63872573080778,3.804175515087991,0 -66.64396696530315,3.810115581269088,0 -66.64617993065923,3.814890928273769,0 -66.64862584110966,3.817103893629849,0 -66.65351766021183,3.820598050259832,0 -66.65689534384501,3.815007400371258,0 -66.66108833216077,3.812095603329453,0 -66.66353424081251,3.810348524564802,0 -66.66574720706791,3.80638848134339,0 -66.67646262025369,3.800448415162293,0 -66.67972383268869,3.798584864300096,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

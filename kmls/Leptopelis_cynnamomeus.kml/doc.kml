@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Leptopelis_cynnamomeus">
+  <name>Leptopelis_cynnamomeus</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Leptopelis_cynnamomeus</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Leptopelis_cynnamomeus]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Leptopelis cynnamomeus</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>Evie J Morris</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2013</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>ARTHROLEPTIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Leptopelis</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>cynnamomeus</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 32.07722743080132,-11.02397853328262,0 32.31740001399948,-10.67295706601573,0 32.18807631576942,-10.30346078458751,0 31.67078152194972,-9.933964504058565,0 30.96873858831526,-9.693791920860406,0 30.04499788474465,-9.213446755363407,0 28.89955941303651,-8.89937491641922,0 27.77259575638908,-8.603777890737035,0 26.60868246962031,-8.419029750922221,0 24.61340255188634,-8.068008283655331,0 22.87677003061248,-7.587663118158332,0 21.41725971996016,-7.476814234089602,0 20.60436790225691,-7.365965350020815,0 19.08943314912057,-8.492929006668248,0 17.74077172343635,-9.786165990767813,0 15.70854217558099,-11.30110074390416,0 14.47072963486482,-11.98466886427661,0 14.19360742424328,-12.92688438110923,0 14.32293112157407,-13.40722954570691,0 14.58157851893355,-13.57350287315904,0 15.32057108089072,-13.53655324483634,0 17.53754876766158,-12.88993475278659,0 21.91607969961848,-12.39111477312821,0 23.3755900102708,-12.33569033064418,0 24.48407885365623,-12.20636663331345,0 26.84885505281847,-11.72602146691713,0 29.7678756741231,-11.48584888371897,0 30.87636451840785,-11.33805037222686,0 32.07722743080132,-11.02397853328262,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

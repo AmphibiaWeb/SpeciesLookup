@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Alytes_muletensis">
+  <name>Alytes_muletensis</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Alytes_muletensis</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Alytes_muletensis]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Alytes muletensis</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2009</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>ALYTIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Alytes</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>muletensis</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 2.471099999665285,39.57883559338796,0 2.478099999615324,39.58203559256862,0 2.497199999980069,39.59223559259857,0 2.514399999960062,39.59923559344793,0 2.530400000359805,39.60753559309319,0 2.537400000309788,39.61323559334801,0 2.543099999665287,39.62223559289834,0 2.545000000050038,39.63363559340797,0 2.545599999840192,39.64193559305323,0 2.543700000354761,39.65023559269849,0 2.541200000179913,39.65593559295331,0 2.538599999890153,39.65783559333801,0 2.534800000020027,39.66103559341798,0 2.530400000359805,39.66363559280842,0 2.524599999990073,39.66493559340296,0 2.512499999575368,39.66493559340296,0 2.509699999955103,39.66433559271349,0 2.464600000289806,39.63463559275846,0 2.451599999740267,39.62053559274347,0 2.448800000119945,39.61713559333305,0 2.446199999830185,39.61003559326809,0 2.446199999830185,39.60243559262852,0 2.448800000119945,39.59353559319311,0 2.454500000374765,39.58463559285838,0 2.460899999635331,39.58013559308319,0 2.46789999958537,39.57883559338796,0 2.471099999665285,39.57883559338796,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 3.023145907657579,39.85889133136988,0 3.037745907347812,39.8613913324441,0 3.046045906993072,39.8645913316247,0 3.060745907697537,39.86969133119004,0 3.069645907132951,39.87549133155977,0 3.07404590769255,39.88249133240913,0 3.0721459073078,39.89269133243909,0 3.065845907262883,39.89899133158474,0 3.056245907023026,39.90349133135993,0 3.047345907587612,39.90409133115008,0 3.025045907142953,39.89839133179459,0 2.998245906923103,39.8875913310751,0 2.992545907567603,39.87859133242409,0 2.990645907182909,39.87159133157473,0 2.992545907567603,39.86209133055053,0 2.997545907018036,39.86059133242412,0 3.001445907003074,39.85889133136988,0 3.007145907257836,39.85699133098518,0 3.023145907657579,39.85889133136988,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Alytes muletensis</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2009</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>ALYTIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Alytes</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>muletensis</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 2.705394420616074,39.72623507658756,0 2.720094420421219,39.72873507676246,0 2.740494419581864,39.73383507632775,0 2.783794420775962,39.7510350763078,0 2.835394420716,39.77653507683237,0 2.885094420271344,39.79953507628278,0 2.929694420261342,39.81863507664752,0 2.962194420735955,39.83073507616291,0 2.981594421445436,39.83753507678244,0 2.985794419976571,39.8402350762878,0 2.993494420730997,39.84853507683238,0 2.993394420616085,39.85983507632778,0 2.989694419961552,39.86833507620287,0 2.986494420780957,39.87083507637772,0 2.983294420700986,39.872835075978,0 2.977494420331254,39.87343507666753,0 2.970494420381272,39.87213507607294,0 2.959694420561107,39.86893507599302,0 2.942594420696025,39.86273507606296,0 2.908494420181398,39.85553507678242,0 2.893394419916604,39.85123507633773,0 2.878094420321304,39.8479350761429,0 2.832894421440471,39.83583507662752,0 2.797794420676041,39.82113507682237,0 2.763994421405471,39.80713507602297,0 2.727694420161413,39.79053507673245,0 2.709894420391208,39.7803350767025,0 2.704194420136446,39.77493507679242,0 2.695194420586063,39.7682350762878,0 2.686894420041483,39.75493507629278,0 2.684694420211372,39.74813507657257,0 2.684994420556109,39.74153507618286,0 2.690194420236367,39.73103507670749,0 2.695194420586063,39.72623507658756,0 2.705394420616074,39.72623507658756,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

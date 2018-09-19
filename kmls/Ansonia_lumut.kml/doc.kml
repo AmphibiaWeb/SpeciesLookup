@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Ansonia_lumut">
+  <name>Ansonia_lumut</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Ansonia_lumut</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Ansonia_lumut]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Ansonia lumut</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>AmphibiaWeb</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2016</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>AmphibiaWeb (amphibiaweb.org), University of California, Berkeley.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>Chan et al 2013_Ansonia lumut</td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>BUFONIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Ansonia</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>lumut</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td>Mossy Stream Toad</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 102.5409579463376,5.526744081771844,0 102.5391753483804,5.509000703359799,0 102.5302623585948,5.494805618968135,0 102.5338275545091,5.47528682569267,0 102.5338275545091,5.450443803607547,0 102.5249145647235,5.423825139477593,0 102.5088711831093,5.388331761713317,0 102.4999581933237,5.35106148314326,0 102.4999581933237,5.335087810506384,0 102.4892626055811,5.303139218803621,0 102.4981755953667,5.265863772417621,0 102.5213493688092,5.253438126133049,0 102.5338275545091,5.2374619311933,0 102.5552187299946,5.228586090806362,0 102.5712621116086,5.194856751596315,0 102.5944358850513,5.173553080132803,0 102.6122618646225,5.184205005699091,0 102.6390008339792,5.214384484555993,0 102.6550442155933,5.262313613082183,0 102.649696421722,5.308464099193532,0 102.6550442155933,5.349286651203978,0 102.6693049992503,5.409628038117764,0 102.6603920094646,5.452218339326404,0 102.6461312258077,5.482384642567872,0 102.6532616176361,5.50722633634227,0 102.6532616176361,5.530292693709086,0 102.6603920094646,5.562229241931825,0 102.651479019679,5.601260445749461,0 102.6336530401078,5.627871136266613,0 102.6033488748369,5.629645139062847,0 102.5801751013942,5.629645139062847,0 102.5694795136515,5.649158812106582,0 102.5445231422518,5.652706682098594,0 102.532044956552,5.640289042081019,0 102.5195667708522,5.620775070971907,0 102.5266971626807,5.599486356553066,0 102.546305740209,5.583519311632649,0 102.5516535340803,5.567551831699829,0 102.5302623585948,5.555132380678158,0 102.5302623585948,5.537389853730333,0 102.5409579463376,5.526744081771844,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

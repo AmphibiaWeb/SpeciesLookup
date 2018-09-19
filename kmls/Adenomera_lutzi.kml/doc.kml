@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Adenomera_lutzi">
+  <name>Adenomera_lutzi</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Adenomera_lutzi</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Adenomera_lutzi]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Presence</td>
+<td>1</td>
+</tr>
+<tr>
+<td>id_no</td>
+<td>56310</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Adenomera lutzi</td>
+</tr>
+<tr>
+<td>origin</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>seasonal</td>
+<td>1</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2009</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>dist_comm</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>island</td>
+<td></td>
+</tr>
+<tr>
+<td>subspecies</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>subpop</td>
+<td></td>
+</tr>
+<tr>
+<td>legend</td>
+<td>Extant (resident)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tax_comm</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>LEPTODACTYLIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Adenomera</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>lutzi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>code</td>
+<td>DD</td>
+</tr>
+<tr>
+<td>Colloquial</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vetted_by</td>
+<td></td>
+</tr>
+<tr>
+<td>shape_Leng</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -60.56050513310538,6.05538701070202,0 -60.56973587980696,5.95384879518582,0 -60.5466590126033,5.870772073072772,0 -60.48665915769391,5.773849231356962,0 -60.38050556927658,5.630772654334578,0 -60.31064772201472,5.528797069729023,0 -60.24929908818234,5.43881907434087,0 -60.18795045524928,5.352930986975537,0 -60.1266018214169,5.271132809431663,0 -60.05298346081804,5.172974995299853,0 -60.01617428141793,5.132075906078228,0 -59.97527519219631,5.08708690793452,0 -59.9261962851304,5.038008001767935,0 -59.85257792543087,5.025738275001459,0 -59.79537162739865,5.049203936212734,0 -59.71590445842395,5.084522677279779,0 -59.6112732999228,5.140255723922564,0 -59.54372559156275,5.163989846254424,0 -59.46867326555872,5.186064060208253,0 -59.42893968242038,5.19489374525017,0 -59.35830219938697,5.239042172258507,0 -59.30973892940801,5.349413240228898,0 -59.31856861355061,5.446539779287434,0 -59.36271704055895,5.495103049266334,0 -59.44218421043291,5.512762420249544,0 -59.52165137940762,5.503932734308307,0 -59.60553338955424,5.481858521253798,0 -59.71148961455401,5.424465566232925,0 -59.81303099838181,5.402391352279153,0 -59.90132785239842,5.415635880291688,0 -59.97118528327417,5.479718162663119,0 -60.02512181272147,5.589234292828394,0 -60.05742942842534,5.672311014941442,0 -60.0712755480281,5.783079978058595,0 -60.10358316193333,5.916925808379403,0 -60.13589077583862,6.013848650095156,0 -60.16819838974385,6.078463877905676,0 -60.21435212505048,6.129232986113493,0 -60.29281347336308,6.189232841022829,0 -60.39896706267973,6.193848214823277,0 -60.48665915769391,6.143079106615517,0 -60.56050513310538,6.05538701070202,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

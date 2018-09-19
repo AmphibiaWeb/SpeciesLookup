@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Amolops_granulosus">
+  <name>Amolops_granulosus</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Amolops_granulosus</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Amolops_granulosus]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Presence</td>
+<td>1</td>
+</tr>
+<tr>
+<td>id_no</td>
+<td>58208</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Amolops granulosus</td>
+</tr>
+<tr>
+<td>origin</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>seasonal</td>
+<td>1</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>dist_comm</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>island</td>
+<td></td>
+</tr>
+<tr>
+<td>subspecies</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>subpop</td>
+<td></td>
+</tr>
+<tr>
+<td>legend</td>
+<td>Extant (resident)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tax_comm</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>RANIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Amolops</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>granulosus</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>code</td>
+<td>LC</td>
+</tr>
+<tr>
+<td>Colloquial</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vetted_by</td>
+<td></td>
+</tr>
+<tr>
+<td>shape_Leng</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 111.0534724158194,31.16446946029743,0 111.1421428077445,31.2974750477353,0 111.3047051942893,31.57826462261431,0 111.3785971871106,31.84427580018809,0 111.2603699978772,32.05117338134653,0 111.1273644104393,32.18417896878441,0 110.9795804229982,32.30240615891717,0 110.7874612400443,32.42063334815055,0 110.4475580696492,32.53886053828325,0 110.1224332992574,32.62753093020831,0 109.6790813378335,32.70142292302955,0 109.1322805871794,32.80487171405844,0 108.8219342149921,32.86398530867513,0 108.5263662410093,32.93787730239563,0 108.1864630706143,33.04132609342452,0 107.6692191172685,33.1595532826579,0 107.2997591495652,33.17433168086245,0 106.9007423863521,33.18911007996627,0 106.324384836591,33.1595532826579,0 105.9105896742741,33.12999648534958,0 105.4229025173374,33.07088288983357,0 104.9352153604006,32.98221249790851,0 104.1076250339682,32.70142292302955,0 103.9007274519104,32.61275253110449,0 103.6347162761353,32.46496854366342,0 103.3834834976653,32.2285141651966,0 103.132250720994,32.02161658403816,0 102.9401315380401,31.7556054073637,0 102.7775691523945,31.41570223786806,0 102.6150067667489,30.88367988541842,0 102.5411147730284,30.15953834911556,0 102.5854499694406,29.45017521281585,0 102.6888987595702,29.08071524511252,0 102.8662395443196,28.8294824684412,0 103.2356995120229,28.63736328458799,0 103.5756026806193,28.60780648727962,0 103.7972786617809,28.79992567023356,0 103.8563922563976,29.27283442806646,0 103.8120570599854,29.55362400294541,0 103.5756026806193,30.18909514732326,0 103.5538613309357,30.80133576992989,0 103.9056508866792,31.24107271483399,0 104.3453878333819,31.50491488231603,0 104.8290984724166,31.9006781330894,0 105.26883541822,32.03259921638079,0 105.6645986680941,32.07657291141078,0 106.2802303913196,32.07657291141078,0 106.6320199479623,31.94465182722013,0 106.9838095037057,31.9006781330894,0 107.6873886160918,31.68080965973803,0 108.3469940343473,31.54888857734602,0 108.918652063442,31.37299379902464,0 109.3583890083461,31.28504640896466,0 109.8420996473809,31.197099019804,0 110.1938892040236,31.197099019804,0 110.4577313706063,31.197099019804,0 110.8170180373526,31.12013426388523,0 110.9648020238943,31.09057746657686,0 111.0534724158194,31.16446946029743,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

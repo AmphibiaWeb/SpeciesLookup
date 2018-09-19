@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Babina_lini">
+  <name>Babina_lini</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Babina_lini</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Babina_lini]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Presence</td>
+<td>1</td>
+</tr>
+<tr>
+<td>id_no</td>
+<td>58644</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Babina lini</td>
+</tr>
+<tr>
+<td>origin</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>seasonal</td>
+<td>1</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>dist_comm</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>island</td>
+<td></td>
+</tr>
+<tr>
+<td>subspecies</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>subpop</td>
+<td></td>
+</tr>
+<tr>
+<td>legend</td>
+<td>Extant (resident)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tax_comm</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>RANIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Babina</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>lini</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>code</td>
+<td>DD</td>
+</tr>
+<tr>
+<td>Colloquial</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vetted_by</td>
+<td></td>
+</tr>
+<tr>
+<td>shape_Leng</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 102.7256332844486,22.85061613392747,0 102.7804347611554,22.9203634671004,0 102.8501820952276,23.02000251590346,0 102.8750918572035,23.07978594536513,0 102.8651279516937,23.16946108865835,0 102.7903986648665,23.23920842183128,0 102.7007235215733,23.28404599392752,0 102.6309761884004,23.30895575590347,0 102.5413010442079,23.33884747063434,0 102.3719146622319,23.38368504273058,0 102.3071492800153,23.39863090009601,0 102.2075102321116,23.40361285195161,0 102.1527087554048,23.40361285195161,0 102.1327809461838,23.39364894824041,0 102.097907278698,23.39364894824041,0 102.0530697066017,23.38866699458617,0 102.0082321354048,23.37372113812006,0 101.9484487059431,23.35877528075463,0 101.8936472292363,23.33884747063434,0 101.8737194200153,23.32888356602382,0 101.8338637997746,23.31393770865839,0 101.8039720859431,23.29400989943736,0 101.7441886573807,23.28404599392752,0 101.6694593696543,23.25913623195157,0 101.6096759410919,23.2441903745862,0 101.4950910358227,23.20931670799973,0 101.4502534637264,23.18938889787938,0 101.3904700351641,23.16946108865835,0 101.3356685575579,23.1146596119516,0 101.2758851289956,23.0648400879997,0 101.2310475568993,23.01003861129294,0 101.1762460810919,22.96021908734105,0 101.0865709368993,22.88548980141326,0 101.001877746361,22.74599513326882,0 100.9919138408511,22.71610341763864,0 100.9769679843851,22.62642827524473,0 100.9719860307308,22.49689751171087,0 100.9819499362406,22.40224041566268,0 101.001877746361,22.10830522290775,0 101.0367514129474,21.83927979212876,0 101.0516972703128,21.70974902859484,0 101.1015167942647,21.73964074332571,0 101.1314085089956,21.5403626457196,0 101.191191937558,21.52043483739789,0 101.1563182709715,21.3610123591331,0 101.2061377949233,21.33610259715721,0 101.2161017004332,21.19162597715717,0 101.2958129391159,21.13682449955104,0 101.4004339397746,21.17668011979174,0 101.5698203217505,21.20657183362329,0 101.5947300837265,21.14678840506088,0 101.6694593696543,21.15675230967139,0 101.7641164657024,21.09198692835412,0 101.8986291819912,21.26137331122936,0 101.7690984193566,21.33610259715721,0 101.7840442758227,21.47559726530159,0 101.8089540377987,21.52043483739789,0 101.8039720859431,21.56527240859481,0 101.8438277052844,21.58021826596024,0 101.8537916098949,21.67487536200838,0 101.8089540377987,21.67487536200838,0 101.8139359905536,21.82433393476333,0 101.7242608472603,21.96881055476337,0 101.6744413233085,21.98873836398434,0 101.6046939892363,22.23783598644167,0 101.70433303714,22.35740284356643,0 101.7591345138468,22.46700579698,0 101.8787013718709,22.342456986201,0 101.9434667540875,22.40722236841759,0 102.0829614213326,22.41718627302811,0 102.1676546127702,22.36238479632135,0 102.2822395180394,22.42715017763862,0 102.411770280674,22.54173508290779,0 102.4615898064245,22.61148241697998,0 102.5612288543283,22.70613951302818,0 102.6459220448666,22.77588684710037,0 102.7256332844486,22.85061613392747,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

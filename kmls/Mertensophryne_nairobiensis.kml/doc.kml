@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Mertensophryne_nairobiensis">
+  <name>Mertensophryne_nairobiensis</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Mertensophryne_nairobiensis</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Mertensophryne_nairobiensis]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Mertensophryne nairobiensis</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2014</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>BUFONIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Mertensophryne</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>nairobiensis</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 36.49691134498266,-2.257398680104927,0 36.74364020173397,-2.389574853396709,0 36.96393382418671,-2.486504047024084,0 37.25472140596816,-2.6274919656816,0 37.56753834981504,-2.711203541710063,0 37.73936737500441,-2.755262266740147,0 37.88035529366192,-2.742044649141178,0 37.92441401779274,-2.697985925010357,0 37.95084925299068,-2.614274348082631,0 37.94203750762495,-2.517345153555937,0 37.87594942142869,-2.371951363564506,0 37.75258499260337,-2.18690472077617,0 37.41333281355855,-1.882899522295077,0 37.28115664116609,-1.702258750840656,0 36.88462812039148,-1.367412444928334,0 36.62908751827439,-1.208801037337935,0 36.5057230903484,-1.182365803039318,0 36.41760564118744,-1.191177546606468,0 36.2766177216306,-1.204395165104756,0 36.02107712041283,-1.261671506834546,0 35.92855379901869,-1.288106741133163,0 35.80078349796014,-1.402659424592741,0 35.7611306460625,-1.592111939614256,0 35.75672477293,-1.719882240672803,0 35.81840698779229,-1.860870160229638,0 35.95058316108407,-2.019481567820037,0 36.05632410007723,-2.054728546585125,0 36.28983534012889,-2.18690472077617,0 36.49691134498266,-2.257398680104927,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

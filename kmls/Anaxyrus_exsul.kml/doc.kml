@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Anaxyrus_exsul">
+  <name>Anaxyrus_exsul</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Anaxyrus_exsul</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Anaxyrus_exsul]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Anaxyrus exsul</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>AmphibiaWeb</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2015</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>AmphibiaWeb (amphibiaweb.org), University of California, Berkeley.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>modified from R. C. Stebbins, 2003; voucher data from VertNet, 4 Jun 2015.</td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>BUFONIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Anaxyrus</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>exsul</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td>Black Toad</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -118.0443317445144,37.48084040855804,0 -118.2680010792864,37.48561532029083,0 -118.4012508956123,37.41399182955934,0 -118.4509964296415,37.3371035942555,0 -118.4302009302287,37.31433802288149,0 -118.4302009302287,37.29993831929806,0 -118.4183169442715,37.27157276217326,0 -118.3945489714578,37.21954147525895,0 -118.329187046445,37.13432190703043,0 -118.2519411345757,37.08219597366531,0 -118.2103471823766,37.04426367502862,0 -118.1741041774658,37.03341486540376,0 -118.1693994722078,37.03200646772439,0 -118.1628112367491,37.03003417353835,0 -118.0796233323509,37.02529041342189,0 -117.9786723561443,37.03200646772439,0 -117.9520856850064,37.03377512302359,0 -117.9370154954687,37.03477763687852,0 -117.9013635366978,37.06797358401377,0 -117.841943604214,37.12010930110341,0 -117.8395900082722,37.1426262557971,0 -117.8247055862938,37.15701675122216,0 -117.8293087113279,37.18635996494049,0 -117.8300596182568,37.19114563346426,0 -117.8340885702313,37.20041711855521,0 -117.8835375564131,37.3141170882331,0 -117.9073055292267,37.37080542173288,0 -117.922013652608,37.38416297384219,0 -117.9904934345244,37.44632327819676,0 -118.018631738364,37.46053807127504,0 -118.0443317445144,37.48084040855804,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

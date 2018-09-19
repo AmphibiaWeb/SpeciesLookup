@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Atelopus_petersi">
+  <name>Atelopus_petersi</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Atelopus_petersi</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Atelopus_petersi]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Atelopus petersi</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>BUFONIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Atelopus</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>petersi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -78.40008393432606,-1.625064321561126,0 -78.42844348218091,-1.82216317389134,0 -78.43269741395443,-1.939855295285611,0 -78.44404123201718,-2.019262027120817,0 -78.45538505097926,-2.147163584231976,0 -78.45425066863339,-2.175523131187504,0 -78.44160904432192,-2.202519594603587,0 -78.42475674023132,-2.216360878551654,0 -78.40547224844545,-2.218629643243389,0 -78.38175242533413,-2.204403881134169,0 -78.34377275041209,-2.12301886203079,0 -78.31812484288713,-2.041666069233656,0 -78.29753064322455,-1.975142997151522,0 -78.27760575500156,-1.910781926744448,0 -78.179607618197,-1.59796945702476,0 -78.13605125715975,-1.402903526676369,0 -78.07371144992345,-1.12371646274454,0 -78.05551543728757,-0.9033138478557703,0 -78.06402330083461,-0.7700239766251684,0 -78.06657014939282,-0.6409758549517051,0 -78.07245931304681,-0.501220833974287,0 -78.07566930999064,-0.3694015818174989,0 -78.08383386903779,-0.2959205485943812,0 -78.0838749842431,-0.2283566281558365,0 -78.06750475094344,-0.1190217653421541,0 -78.06290290834249,-0.0836420079722302,0 -78.06483271315915,-0.06241415408987905,0 -78.0686923227924,-0.02446132303157356,0 -78.07834134777494,-0.0006603963601605756,0 -78.08670383591328,0.01284823825562853,0 -78.10664515295139,0.03150301934891786,0 -78.12658647088887,0.03857897064301596,0 -78.15094178733358,0.03912601565315299,0 -78.19697405031212,0.03298838100903367,0 -78.2215245906873,0.02480486695111495,0 -78.26960273218032,0.008437839734540376,0 -78.31256617828649,-0.01406682212609667,0 -78.34427729166362,-0.02941090918608325,0 -78.37597831914405,-0.05536339010831171,0 -78.40150191158392,-0.10641057498799,0 -78.42277157225021,-0.1730555106032625,0 -78.42875892658316,-0.2391807019278076,0 -78.42752385164442,-0.2642938968457997,0 -78.4264554822347,-0.3145150751105916,0 -78.42546539431248,-0.3655700589110325,0 -78.41426370780386,-0.399931888046126,0 -78.41284573144532,-0.4552330038000605,0 -78.40150191158392,-0.5034442341640215,0 -78.39583000165322,-0.5459835545973419,0 -78.40150191158392,-0.59703074037634,0 -78.39583000165322,-0.6608397205765755,0 -78.38732213810613,-0.7218127471605271,0 -78.37739629730123,-0.7714419538830271,0 -78.37597831914405,-0.8196531851463078,0 -78.38306820633261,-0.8834621653466002,0 -78.38448618359047,-0.9217475540063447,0 -78.38023225181695,-0.951525079119051,0 -78.38023225181695,-0.97563069430106,0 -78.38165022907475,-1.070635175972541,0 -78.38732213810613,-1.121682360852219,0 -78.38306820633261,-1.228030663284415,0 -78.38645346675406,-1.297102766579371,0 -78.39115450997264,-1.43343298574365,0 -78.40008393432606,-1.625064321561126,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

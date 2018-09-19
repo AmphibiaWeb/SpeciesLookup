@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Agalychnis hulli">
+  <name>Agalychnis hulli</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Agalychnis hulli</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Agalychnis hulli]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Agalychnis hulli</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2015</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature) &amp; Conservation International.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>HYLIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Agalychnis</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>hulli</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+<tr>
+<td>centroid_x</td>
+<td>-76.4386</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>centroid_y</td>
+<td>-1.63057</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -75.7291784468278,-3.020398365292294,0 -75.62020070929526,-3.020398365292294,0 -75.48942742443603,-2.911420626860377,0 -75.42404078155681,-2.617180735702334,0 -75.45673410299639,-2.442816355290518,0 -75.55481406731531,-2.224860880225378,0 -75.69648512628748,-2.039598725700557,0 -75.79456508970708,-1.930620988168016,0 -75.94713392189294,-1.48381226392479,0 -75.94713392189294,-1.342141204952611,0 -75.91444060135262,-1.265856787960331,0 -75.83815618525972,-1.145981277214105,0 -75.83815618525972,-1.026105765568559,0 -75.85995173168703,-0.8844347065963802,0 -75.89264505402599,-0.8299458378301097,0 -76.0561116603248,-0.6991725529708788,0 -76.23047603983736,-0.6010925886520226,0 -76.40484042114849,-0.5466037198856952,0 -76.4920226113544,-0.5466037198856952,0 -76.9933202043639,-0.6773770047449261,0 -77.13499126333608,-0.7645591949508344,0 -77.41833338128049,-0.8844347065963802,0 -77.54910666613966,-0.9389235753626508,0 -77.65808440367226,-0.9607191226893406,0 -77.70167549922485,-0.9934124441289214,0 -77.75616436799118,-1.178674597754423,0 -77.6798799509989,-1.309447884412293,0 -77.52731111881303,-1.385732299605877,0 -77.3638445116149,-1.494710038037795,0 -77.01511575169053,-1.723563287215882,0 -76.98242243025089,-1.767154381869204,0 -76.79716027572613,-1.985109856934287,0 -76.68818253909285,-2.13767869001947,0 -76.5683070274473,-2.312043070431287,0 -76.36124932559585,-2.617180735702334,0 -76.23047603983736,-2.726158473234932,0 -76.03431611299817,-2.846033984880478,0 -75.85995173168703,-2.944113949199334,0 -75.7291784468278,-3.020398365292294,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>6600aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>
