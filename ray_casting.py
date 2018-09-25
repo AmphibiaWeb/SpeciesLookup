@@ -20,17 +20,16 @@ class edge:
         if max(self.a.x,self.b.x)<point.x:
             return hit
 
+        # This is for a vertical edge
         if self.b.x==self.a.x:
-            if min(self.b.y,self.a.y)<=point.y and max(self.b.y,self.a.y)>=point.y:
-                return 1
-            else:
-                return 0
+            # tangents are not counted as inside the polygon
+            return 0
         projected_y= self.a.y + (self.b.y-self.a.y)/(self.b.x-self.a.x)*(point.x-self.a.x)
         if projected_y <= point.y:
-            if self.a.x==point.x or self.b.x==point.x:
+            # ignore the right point if the query point is right on top of it.
+            if point.x == max(self.a.x,self.b.x):
                 # Have to account for overcounting
-                hit=1
-                print("illegal trigger")
+                hit=0
                 return hit
             else:
                 hit=1
@@ -43,7 +42,7 @@ class polygon:
     def __init__(self,points):
         # convert points to a list of edges
         self.edges=[edge(points[i],points[(i+1)%len(points)]) for i in range(len(points))]
-        
+
     def is_inside(self,query_point):
         hits=sum([edge.intersect(query_point) for edge in self.edges])
         if hits%2==1:

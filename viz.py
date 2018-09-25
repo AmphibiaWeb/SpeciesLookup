@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import ray_casting as r
 
-coord=np.array([[0.2,0.2],[0.2,0.9],[0.9,0.2]])
-test=r.points(0.3,0.5)
+coord=np.array([[0.2,0.2],[0.4,0.2],[0.2,0.9],[0.9,0.2]])
+test=r.points(0.4,0.9)
 
 ps=[r.points(dot[0],dot[1]) for dot in coord]
 poly=r.polygon(ps)
