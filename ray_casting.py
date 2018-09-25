@@ -1,11 +1,14 @@
 class points:
+
     def __init__(self,x,y):
         self.x=x
         self.y=y
 class edge:
+
     def __init__(self,pointa,pointb):
         self.a=pointa
         self.b=pointb
+
     def intersect(self,point):
         # I am assuming the ray always goes straight down along x = point.x line
         hit = 0
@@ -16,11 +19,18 @@ class edge:
         # The edge is entirely right of the point
         if max(self.a.x,self.b.x)<point.x:
             return hit
+
+        if self.b.x==self.a.x:
+            if min(self.b.y,self.a.y)<=point.y and max(self.b.y,self.a.y)>=point.y:
+                return 1
+            else:
+                return 0
         projected_y= self.a.y + (self.b.y-self.a.y)/(self.b.x-self.a.x)*(point.x-self.a.x)
         if projected_y <= point.y:
             if self.a.x==point.x or self.b.x==point.x:
                 # Have to account for overcounting
-                hit=0.5
+                hit=1
+                print("illegal trigger")
                 return hit
             else:
                 hit=1
@@ -29,9 +39,11 @@ class edge:
             return hit
 
 class polygon:
+
     def __init__(self,points):
         # convert points to a list of edges
         self.edges=[edge(points[i],points[(i+1)%len(points)]) for i in range(len(points))]
+        
     def is_inside(self,query_point):
         hits=sum([edge.intersect(query_point) for edge in self.edges])
         if hits%2==1:
