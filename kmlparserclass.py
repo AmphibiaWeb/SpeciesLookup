@@ -16,20 +16,20 @@ class parser:
 
     def read_in_polygons_from_kml(self):
         root=ET.parse(self.kml_path).getroot()
-        polys=root.findall(".//{0}Polygon".format(namespace))
+        polys=root.findall(".//{0}Polygon".format(self.namespace))
         self.outer=[]
         self.inner=[]
         for each_polygon in polys:
-            outer=each_polygon.findall(".//{0}outerBoundaryIs".format(namespace))
-            inner=each_polygon.findall(".//{0}innerBoundaryIs".format(namespace))
+            outer=each_polygon.findall(".//{0}outerBoundaryIs".format(self.namespace))
+            inner=each_polygon.findall(".//{0}innerBoundaryIs".format(self.namespace))
             for each in outer:
-                cords=find_coordinates(each)
-                good=format_vertices(cords)
+                cords=self.find_coordinates(each)
+                good=self.format_vertices(cords)
                 self.outer.append(good)
 
             for each in inner:
-                cords=find_coordinates(each)
-                good=format_vertices(cords)
+                cords=self.find_coordinates(each)
+                good=self.format_vertices(cords)
                 self.inner.append(good)
 
     def visualize(self,point=None):
