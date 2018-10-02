@@ -25,30 +25,30 @@ class parser:
             for each in outer:
                 cords=find_coordinates(each)
                 good=format_vertices(cords)
-                ps=[r.points(dot[0],dot[1]) for dot in good]
-                self.outer.append(ps)
+                self.outer.append(good)
 
             for each in inner:
                 cords=find_coordinates(each)
                 good=format_vertices(cords)
-                ps=[r.points(dot[0],dot[1]) for dot in good]
-                self.inner.append(ps)
+                self.inner.append(good)
 
-    // # TODO: visualize the range map
     def visualize(self,point=None):
+        outer_patches=[]
+        inner_patches=[]
+        for good in self.outer:
+            polygon=Polygon(good,closed=True)
+            outer_patches.append(polygon)
+        for ps in self.inner:
+            polygon=Polygon(good,closed=True)
+            inner_patches.append(polygon)
 
-        poly=r.polygon(ps)
-        test=r.points(-2.6,5.27)
         fig,ax=plt.subplots()
-        patches=[]
-        num_polygon=1
-        polygon=Polygon(good,closed=True)
-        patches.append(polygon)
-        p=PatchCollection(patches,cmap=matplotlib.cm.jet,alpha=0.4)
-        ax.add_collection(p)
-        plt.plot([test.x],[test.y],'ro')
-        plt.title("tested point ("+str(test.x)+" ,"+str(test.y)+
-                    ") is contained in polygon"+str(poly.is_inside(test)))
+        o=PatchCollection(outer_patches,cmap=matplotlib.cm.jet,alpha=0.4)
+        i=PatchCollection(inner_patches,cmap=matplotlib.cm.jet,alpha=0.6)
+        ax.add_collection(o)
+        ax.add_collection(i)
+        if point:
+            plt.plot([point.x],[point.y],'ro')
         plt.show()
 
 
@@ -65,6 +65,17 @@ class parser:
         # take off the elevation data and convert everything to float
         return np.array([[float(arr[i][0]),float(arr[i][1])] for i in range(len(arr))])
 
-    // # TODO:
     def inside(self,query_point):
-        return True
+        a=False
+        b=False
+        for good in self.outer:
+            ps=[r.points(dot[0],dot[1]) for dot in good]
+            poly=r.polygon(ps)
+            if poly.is_inside(query_point):
+                a=True
+        for good in self.inner:
+            ps=[r.points(dot[0],dot[1]) for dot in good]
+            poly=r.polygon(ps)
+            if poly.is_inside(query_point):
+                b=True
+        return a and not b
