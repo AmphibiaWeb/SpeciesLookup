@@ -15,12 +15,19 @@ doc=root[0]
 scientific_name=doc[0].text
 namespace="{http://www.opengis.net/kml/2.2}"
 
+# This entire script needs to be functionalized 
 def find_coordinates(boundary_node):
     # indexing into linear ring and coordinates
-    return boundary_node[0][0].text
+    # this is in text format I want to return tuples of three
+    in_str_form= boundary_node[0][0].text
+    after_space_split=in_str_form.split(" ")
+    after_comma_split=[triple.split(',') for triple in after_space_split if len(triple.split(','))==3]
+    # debugging line here 
+    print(after_comma_split)
+    return after_comma_split
 
 def format_vertices(arr):
-    return np.array([[arr[i*3],arr[i*3+1]] for i in range(len(arr)//3)])
+    return np.array([[float(arr[i][0]),float(arr[i][1])] for i in range(len(arr))])
 
 polys=root.findall(".//{0}Polygon".format(namespace))
 for each_polygon in polys:
@@ -30,15 +37,17 @@ for each_polygon in polys:
         cords=find_coordinates(each)
         
         good=format_vertices(cords)
+        print(good.shape)
         ps=[r.points(dot[0],dot[1]) for dot in good]
+        
+        print()
         poly=r.polygon(ps)
-        test=r.points(0.4,0.9)
+        test=r.points(-2.6,5.27)
         fig,ax=plt.subplots()
     
         patches=[]
         num_polygon=1
-        print(cords)
-        polygon=Polygon(cords,closed=True)
+        polygon=Polygon(good,closed=True)
         patches.append(polygon)
         p=PatchCollection(patches,cmap=matplotlib.cm.jet,alpha=0.4)
         
