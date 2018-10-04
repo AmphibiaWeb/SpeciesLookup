@@ -31,10 +31,16 @@ class parser:
                 cords=self.find_coordinates(each)
                 good=self.format_vertices(cords)
                 self.inner.append(good)
-
+        self.min_x = min([min([cord[0] for cord in shape]) for shape in self.outer])
+        self.max_x = max([max([cord[0] for cord in shape]) for shape in self.outer])
+        self.min_y = min([min([cord[1] for cord in shape]) for shape in self.outer])
+        self.max_y = max([max([cord[1] for cord in shape]) for shape in self.outer])
+        
+        
     def visualize(self,point=None):
         outer_patches=[]
         inner_patches=[]
+
         for good in self.outer:
             polygon=Polygon(good,closed=True)
             outer_patches.append(polygon)
@@ -47,8 +53,11 @@ class parser:
         i=PatchCollection(inner_patches,cmap=matplotlib.cm.jet,alpha=0.6)
         ax.add_collection(o)
         ax.add_collection(i)
+        
         if point:
             plt.plot([point.x],[point.y],'ro')
+            
+        plt.axis([self.min_x, self.max_x, self.min_y, self.max_y])
         plt.show()
 
 
@@ -66,6 +75,10 @@ class parser:
         return np.array([[float(arr[i][0]),float(arr[i][1])] for i in range(len(arr))])
 
     def inside(self,query_point):
+        # This takes in the point object 
+        
+        if query_point.x < self.min_x or query_point.x > self.max_x or query_point.y < self.min_y or query_point.y > self.max_y:
+                return False 
         a=False
         b=False
         for good in self.outer:
