@@ -42,7 +42,7 @@ for each_polygon in polys:
         
         print()
         poly=r.polygon(ps)
-        test=r.points(-2.6,5.27)
+        test=r.points(-2.8,6.5)
         fig,ax=plt.subplots()
     
         patches=[]
