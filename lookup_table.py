@@ -2,7 +2,8 @@
 import os
 import time
 import kmlparserclass as k
-import ray_casting as r
+
+start = time.clock()
 
 
 class grid_cell:
@@ -17,28 +18,34 @@ class grid_cell:
 
     def chop(long_range, lat_range, interval):
         cells = []
-        for i in range(360 / interval[0] - 1):
-            for j in range(180 / interval[1] - 1):
+        cells_in_grid = [None] * (360 // interval[0] - 1)
+        for i in range(360 // interval[0] - 1):
+        	cell_array = [None] * (180 // interval[1] - 1)
+        	cells_in_grid[i] = cell_array
+            for j in range(180 // interval[1] - 1):
                 # add a grid cell
-                cells.append(grid_cell(-180 + i * interval[0], -90 + (j + 1) * interval[
-                             1], -180 + (i + 1) * interval[0], -90 + j * interval[1]))
+                cell = grid_cell(-180 + i * interval[0], -90 + (j + 1) * interval[
+                             1], -180 + (i + 1) * interval[0], -90 + j * interval[1])
+                cells.append(cell)
+                cell_array[j] = cell 
         return cells
 
     def add_species(self, scientific_name):
         self.species.append(scientific_name)
 
     def check_over_lap(self, scientific_name):
-
+        pass
         # another static method here
-    def array_index(long, lat, interval):
 
+    def array_index(long, lat, interval):
+        index = 0
         # this should return the index for the cells array
         return index
 
 
 def create_table(long_interval=10, lat_interval=5):
     # what we are going to return
-    long_range = (-180.0, 180.0)
+    long_range = (-180, 180)
     lat_range = (-90, 90)
 
     if 360 % long_interval or 180 % lat_interval:
@@ -63,7 +70,9 @@ def create_table(long_interval=10, lat_interval=5):
                 cell.add_species(parser.scientific_name)
         print("cell coordinates are (", cell.left_top_long, " ,", cell.left_top_lat,
               "), (", cell.right_bottom_long, " ,", cell.right_bottom_lat, ")")
-        print("Species occurring in this regions are :", cell.spceis)
+        print("Species occurring in this regions are :", cell.species)
     #
-create_table
+create_table()
 # possibly dump this into a json file
+stop = time.clock()
+print("total runtime is ", stop - start)
