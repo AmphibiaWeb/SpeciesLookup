@@ -27,7 +27,7 @@ class grid_cell:
                              1], -180 + (i + 1) * interval[0], -90 + j * interval[1])
        		    cells.append(cell)
        		    cell_array[j] = cell 
-        return cells
+        return cells,cells_in_grid
 
     def add_species(self, scientific_name):
         self.species.append(scientific_name)
@@ -48,7 +48,7 @@ def create_table(long_interval=4, lat_interval=2):
 
     interval = (long_interval, lat_interval)
 
-    cells = grid_cell.chop(long_range, lat_range, interval)
+    cells,cells_in_grid = grid_cell.chop(long_range, lat_range, interval)
 
     # grid cells are divided into
     all_species = [name.split('.')[0]
@@ -64,9 +64,10 @@ def create_table(long_interval=4, lat_interval=2):
         print("cell coordinates are (", cell.left_top_long, " ,", cell.left_top_lat,
               "), (", cell.right_bottom_long, " ,", cell.right_bottom_lat, ")")
         print("Species occurring in this regions are :", cell.species)
+    return cells_in_grid
     #
-start = time.clock()
-create_table()
+#start = time.clock()
+#create_table()
 # possibly dump this into a json file
-stop = time.clock()
-print("total runtime is ", stop - start)
+#stop = time.clock()
+#print("total runtime is ", stop - start)

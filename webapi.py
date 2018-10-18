@@ -9,8 +9,11 @@ import os
 import time 
 import kmlparserclass as k
 import ray_casting as r
+import lookup_table as table 
 
 all_species = [name.split('.')[0] for name in next(os.walk('kml'))[1] if name]
+
+grid_cells = table.create_table()
 
 accoutants = [k.parser(specie) for specie in all_species]
 
@@ -18,9 +21,16 @@ class User(Resource):
     def get(self,points):
         start = time.clock()
         print(points)
-        long, lat = float(points.split(",")[0]),float(points.split(",")[1])
-        point = r.points(long,lat)
-        result = [account.scientific_name for account in accoutants if account.inside(point)]
+
+        longa, lat = float(points.split(",")[0]),float(points.split(",")[1])        
+        i,j = table.cells.array_index(longa,lat,(4,2))
+        point = r.points(longa,lat)
+        cell = grid_cells[i][j]
+        result = []
+        for species in cell.species: 
+            par = k.parser(species)
+            if par.inside(point):
+                result.append(species)
         stop = time.clock()
         print(stop-start)
         return str(result), 200
