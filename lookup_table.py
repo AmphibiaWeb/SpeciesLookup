@@ -3,8 +3,6 @@ import os
 import time
 import kmlparserclass as k
 
-start = time.clock()
-
 
 class grid_cell:
 
@@ -22,28 +20,23 @@ class grid_cell:
         for i in range(360 // interval[0] - 1):
         	cell_array = [None] * (180 // interval[1] - 1)
         	cells_in_grid[i] = cell_array
-            for j in range(180 // interval[1] - 1):
+	        for j in range(180 // interval[1] - 1):
+                
                 # add a grid cell
-                cell = grid_cell(-180 + i * interval[0], -90 + (j + 1) * interval[
+        	    cell = grid_cell(-180 + i * interval[0], -90 + (j + 1) * interval[
                              1], -180 + (i + 1) * interval[0], -90 + j * interval[1])
-                cells.append(cell)
-                cell_array[j] = cell 
+       		    cells.append(cell)
+       		    cell_array[j] = cell 
         return cells
 
     def add_species(self, scientific_name):
         self.species.append(scientific_name)
 
-    def check_over_lap(self, scientific_name):
-        pass
-        # another static method here
-
-    def array_index(long, lat, interval):
-        index = 0
+    def array_index(longa, lat, interval):
         # this should return the index for the cells array
-        return index
+        return (longa+180)//interval[0],(lat+90)//interval[1]
 
-
-def create_table(long_interval=10, lat_interval=5):
+def create_table(long_interval=4, lat_interval=2):
     # what we are going to return
     long_range = (-180, 180)
     lat_range = (-90, 90)
@@ -72,6 +65,7 @@ def create_table(long_interval=10, lat_interval=5):
               "), (", cell.right_bottom_long, " ,", cell.right_bottom_lat, ")")
         print("Species occurring in this regions are :", cell.species)
     #
+start = time.clock()
 create_table()
 # possibly dump this into a json file
 stop = time.clock()
