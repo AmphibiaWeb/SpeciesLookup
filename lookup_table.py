@@ -34,7 +34,9 @@ class grid_cell:
 
     def array_index(longa, lat, interval):
         # this should return the index for the cells array
-        return (longa+180)//interval[0],(lat+90)//interval[1]
+        return int((longa+180)/interval[0]//1),int((lat+90)/interval[1]//1)
+    def __repr__(self):
+        return str(self.left_top_long)+str(self.left_top_lat)+str(self.right_bottom_long)+str(self.right_bottom_lat)+str(self.species)
 
 def create_table(long_interval=4, lat_interval=2):
     # what we are going to return
@@ -61,9 +63,9 @@ def create_table(long_interval=4, lat_interval=2):
                 pass
             else:
                 cell.add_species(parser.scientific_name)
-        print("cell coordinates are (", cell.left_top_long, " ,", cell.left_top_lat,
-              "), (", cell.right_bottom_long, " ,", cell.right_bottom_lat, ")")
-        print("Species occurring in this regions are :", cell.species)
+        ### print("cell coordinates are (", cell.left_top_long, " ,", cell.left_top_lat,
+        ###      "), (", cell.right_bottom_long, " ,", cell.right_bottom_lat, ")")
+        ###print("Species occurring in this regions are :", cell.species)
     return cells_in_grid
     #
 #start = time.clock()
