@@ -13,3 +13,5 @@ viz.py visualizes range maps and query points.
 
 webapi.py puts everything together into a web service 
 
+## Updates
+Apache server and Python 3 need to installed on the server
