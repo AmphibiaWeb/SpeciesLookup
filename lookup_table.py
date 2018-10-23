@@ -16,11 +16,11 @@ class grid_cell:
 
     def chop(long_range, lat_range, interval):
         cells = []
-        cells_in_grid = [None] * (360 // interval[0] - 1)
-        for i in range(360 // interval[0] - 1):
-        	cell_array = [None] * (180 // interval[1] - 1)
+        cells_in_grid = [None] * (360 // interval[0])
+        for i in range(360 // interval[0]):
+        	cell_array = [None] * (180 // interval[1])
         	cells_in_grid[i] = cell_array
-	        for j in range(180 // interval[1] - 1):
+	        for j in range(180 // interval[1]):
                 
                 # add a grid cell
         	    cell = grid_cell(-180 + i * interval[0], -90 + (j + 1) * interval[
