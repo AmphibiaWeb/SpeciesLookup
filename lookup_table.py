@@ -53,8 +53,8 @@ def create_table(long_interval=4, lat_interval=2):
     cells,cells_in_grid = grid_cell.chop(long_range, lat_range, interval)
 
     # grid cells are divided into
-    all_species = [name.split('.')[0]
-                   for name in next(os.walk('kml'))[1] if name]
+    all_species = [name.split('.')[0] for name in list(os.walk('range_shapefiles'))[0][2] if name]
+
     parsers = [k.parser(specie) for specie in all_species]
 
     for cell in cells:

@@ -5,7 +5,7 @@ import kmlparserclass as k
 import ray_casting as r
 import lookup_table as table 
 
-all_species = [name.split('.')[0] for name in next(os.walk('kml'))[1] if name]
+all_species = [name.split('.')[0] for name in list(os.walk('range_shapefiles'))[0][2] if name]
 
 grid_cells = table.create_table()
 # print(grid_cells)
