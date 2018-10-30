@@ -18,27 +18,29 @@ class grid_cell:
         cells = []
         cells_in_grid = [None] * (360 // interval[0])
         for i in range(360 // interval[0]):
-        	cell_array = [None] * (180 // interval[1])
-        	cells_in_grid[i] = cell_array
-	        for j in range(180 // interval[1]):
-                
+            cell_array = [None] * (180 // interval[1])
+            cells_in_grid[i] = cell_array
+            for j in range(180 // interval[1]):
+
                 # add a grid cell
-        	    cell = grid_cell(-180 + i * interval[0], -90 + (j + 1) * interval[
-                             1], -180 + (i + 1) * interval[0], -90 + j * interval[1])
-       		    cells.append(cell)
-       		    cell_array[j] = cell 
-        return cells,cells_in_grid
+                cell = grid_cell(-180 + i * interval[0], -90 + (j + 1) * interval[
+                    1], -180 + (i + 1) * interval[0], -90 + j * interval[1])
+                cells.append(cell)
+                cell_array[j] = cell
+        return cells, cells_in_grid
 
     def add_species(self, scientific_name):
         self.species.append(scientific_name)
 
     def array_index(longa, lat, interval):
         # this should return the index for the cells array
-        return int((longa+180)/interval[0]//1),int((lat+90)/interval[1]//1)
-    def __repr__(self):
-        return str(self.left_top_long)+str(self.left_top_lat)+str(self.right_bottom_long)+str(self.right_bottom_lat)+str(self.species)
+        return int((longa + 180) / interval[0] // 1), int((lat + 90) / interval[1] // 1)
 
-def create_table(long_interval=4, lat_interval=2):
+    def __repr__(self):
+        return str(self.left_top_long) + str(self.left_top_lat) + str(self.right_bottom_long) + str(self.right_bottom_lat) + str(self.species)
+
+
+def create_table(long_interval=1, lat_interval=1):
     # what we are going to return
     long_range = (-180, 180)
     lat_range = (-90, 90)
@@ -50,12 +52,21 @@ def create_table(long_interval=4, lat_interval=2):
 
     interval = (long_interval, lat_interval)
 
-    cells,cells_in_grid = grid_cell.chop(long_range, lat_range, interval)
+    cells, cells_in_grid = grid_cell.chop(long_range, lat_range, interval)
 
     # grid cells are divided into
-    all_species = [name.split('.')[0] for name in list(os.walk('range_shapefiles'))[0][2] if name]
+    all_species = [name.split('.')[0] for name in list(
+        os.walk('range_shapefiles'))[0][2] if name]
 
-    parsers = [k.parser(specie) for specie in all_species]
+    # not good for bad kmz handling
+    # parsers = [k.parser(specie) for specie in all_species]
+    parsers = []
+    for specie in all_species:
+        try:
+            p = k.parser(specie)
+            parsers.append(p)
+        except KeyError: 
+            print(specie," has bad kmz files")
 
     for cell in cells:
         for parser in parsers:
@@ -63,13 +74,13 @@ def create_table(long_interval=4, lat_interval=2):
                 pass
             else:
                 cell.add_species(parser.scientific_name)
-        ### print("cell coordinates are (", cell.left_top_long, " ,", cell.left_top_lat,
-        ###      "), (", cell.right_bottom_long, " ,", cell.right_bottom_lat, ")")
+        # print("cell coordinates are (", cell.left_top_long, " ,", cell.left_top_lat,
+        # "), (", cell.right_bottom_long, " ,", cell.right_bottom_lat, ")")
         ###print("Species occurring in this regions are :", cell.species)
     return cells_in_grid
     #
 #start = time.clock()
-#create_table()
+# create_table()
 # possibly dump this into a json file
 #stop = time.clock()
 #print("total runtime is ", stop - start)

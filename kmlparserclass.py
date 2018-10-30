@@ -25,7 +25,6 @@ class parser:
         return "range_shapefiles/"+scientific_name+".kmz"
 
     def read_in_polygons_from_kmz(self):
-        print(self.scientific_name)
         with ZipFile(self.kmz_path) as myzip:
             with myzip.open('doc.kml') as myfile:
                 root = ET.fromstring(myfile.read())

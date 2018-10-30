@@ -18,12 +18,8 @@ grid_cells = table.create_table()
 class User(Resource):
     def get(self,points):
         start = time.clock()
-        print(points)
-
         longa, lat = float(points.split(",")[0]),float(points.split(",")[1])        
-        i,j = table.grid_cell.array_index(longa,lat,(4,2))
-
-        print(i,j)
+        i,j = table.grid_cell.array_index(longa,lat,(1,1))
         point = r.points(longa,lat)
         cell = grid_cells[i][j]
         result = []
@@ -33,6 +29,7 @@ class User(Resource):
                 result.append(species)
         stop = time.clock()
         print(stop-start)
+        result.append("count: "+str(len(result)))
         return str(result), 200
         
     def post(self,points):
