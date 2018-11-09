@@ -44,7 +44,7 @@ class User(Resource):
         return "method not supported", 404
 
 
-api.add_resource(User, "/api/<string:points>")
+api.add_resource(User, "/species_lookup/<string:points>")
 
 if __name__ == '__main__':
     app.run(debug=True)
