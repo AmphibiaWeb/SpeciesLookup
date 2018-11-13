@@ -31,7 +31,7 @@ class User(Resource):
                 result.append(species)
         stop = time.clock()
         print(stop - start)
-        result.append("count: " + str(len(result)))
+        result = ["count: " + str(len(result))] + result
         return str(result), 200
 
     def post(self, points):
