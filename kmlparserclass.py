@@ -1,7 +1,7 @@
 import matplotlib
-from matplotlib.patches import Polygon
-from matplotlib.collections import PatchCollection
-import matplotlib.pyplot as plt
+#from matplotlib.patches import Polygon
+#from matplotlib.collections import PatchCollection
+#import matplotlib.pyplot as plt
 import numpy as np
 import ray_casting as r
 import xml.etree.ElementTree as ET
@@ -71,29 +71,30 @@ class parser:
         self.max_y = max([max([cord[1] for cord in shape]) for shape in self.outer])
         
         
-    def visualize(self,point=None):
-        outer_patches=[]
-        inner_patches=[]
-
-        for good in self.outer:
-            polygon=Polygon(good,closed=True)
-            outer_patches.append(polygon)
-        for ps in self.inner:
-            polygon=Polygon(good,closed=True)
-            inner_patches.append(polygon)
-
-        fig,ax=plt.subplots()
-        o=PatchCollection(outer_patches,cmap=matplotlib.cm.jet,alpha=0.4)
-        i=PatchCollection(inner_patches,cmap=matplotlib.cm.jet,alpha=0.6)
-        ax.add_collection(o)
-        ax.add_collection(i)
-        
-        if point:
-            plt.plot([point.x],[point.y],'ro')
-            
-        plt.axis([self.min_x, self.max_x, self.min_y, self.max_y])
-        plt.show()
-
+#    def visualize(self,point=None):
+#        outer_patches=[]
+#        inner_patches=[]
+#
+#        for good in self.outer:
+#            polygon=Polygon(good,closed=True)
+#            outer_patches.append(polygon)
+#        for ps in self.inner:
+#            polygon=Polygon(good,closed=True)
+#            inner_patches.append(polygon)
+#
+#        fig,ax=plt.subplots()
+#        o=PatchCollection(outer_patches,cmap=matplotlib.cm.jet,alpha=0.4)
+#        i=PatchCollection(inner_patches,cmap=matplotlib.cm.jet,alpha=0.6)
+#        ax.add_collection(o)        ax.add_collection(i)
+#
+#       
+#        if point:
+#            plt.plot([point.x],[point.y],'ro')
+#            
+#        plt.axis([self.min_x, self.max_x, self.min_y, self.max_y])
+#        plt.show()
+#	"""
+    
 
     def find_kml(self,scientific_name):
         return "kml/"+scientific_name+".kml/doc.kml"
