@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Mertensophryne_schmidti">
+  <name>Mertensophryne_schmidti</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Mertensophryne_schmidti</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Mertensophryne_schmidti]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Mertensophryne schmidti</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2014</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>BUFONIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Mertensophryne</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>schmidti</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 26.53385110704301,-8.47189567614447,0 26.45452908414995,-8.554666483071685,0 26.2613972007203,-8.727105664994383,0 26.1958703121652,-8.840915523732406,0 26.22690936397601,-8.937481465896894,0 26.41659246427088,-8.875403361375959,0 26.57868529409109,-8.754695933670348,0 26.72698298957334,-8.58225675174765,0 26.78561231185876,-8.464998108975522,0 26.72008542330372,-8.396022437285581,0 26.60972434680122,-8.433959057164714,0 26.53385110704301,-8.47189567614447,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

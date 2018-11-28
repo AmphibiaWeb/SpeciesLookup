@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Bolitoglossa_hermosa">
+  <name>Bolitoglossa_hermosa</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Bolitoglossa_hermosa</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Bolitoglossa_hermosa]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Presence</td>
+<td>1</td>
+</tr>
+<tr>
+<td>id_no</td>
+<td>59168</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Bolitoglossa hermosa</td>
+</tr>
+<tr>
+<td>origin</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>seasonal</td>
+<td>1</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>dist_comm</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>island</td>
+<td></td>
+</tr>
+<tr>
+<td>subspecies</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>subpop</td>
+<td></td>
+</tr>
+<tr>
+<td>legend</td>
+<td>Extant (resident)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tax_comm</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>CAUDATA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>PLETHODONTIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Bolitoglossa</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>hermosa</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>code</td>
+<td>NT</td>
+</tr>
+<tr>
+<td>Colloquial</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vetted_by</td>
+<td></td>
+</tr>
+<tr>
+<td>shape_Leng</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -100.5765535836809,17.30591593257429,0 -100.5607111112288,17.30365272209548,0 -100.5403422160204,17.31044235443119,0 -100.5086572693175,17.32854803826143,0 -100.4860251636304,17.35118014304919,0 -100.4701826902789,17.37381224783701,0 -100.4520770064486,17.39191793166725,0 -100.4384977426767,17.41681324783315,0 -100.4226552702245,17.44170856309978,0 -100.4090760055532,17.46660387926568,0 -100.4022863750162,17.48697277357468,0 -100.3977599540586,17.50734166788374,0 -100.3977599540586,17.52544735171398,0 -100.4022863750162,17.54128982596473,0 -100.4068127959737,17.55260587835863,0 -100.418128849267,17.56392193075254,0 -100.4384977426767,17.56844835171012,0 -100.4543402169275,17.56844835171012,0 -100.4679194798001,17.56844835171012,0 -100.4814987426728,17.55939550979497,0 -100.5041308483599,17.53902661458665,0 -100.5199733217114,17.50960487926182,0 -100.5358157950628,17.48470956309592,0 -100.5493950579356,17.45755103735053,0 -100.5607111112288,17.43718214214221,0 -100.5675007417658,17.41907645831196,0 -100.5765535836809,17.39418114304539,0 -100.5833432160165,17.37607545921514,0 -100.5901328465536,17.36023298496434,0 -100.5901328465536,17.34891693167111,0 -100.5901328465536,17.33986408975596,0 -100.5923960579317,17.32402161730386,0 -100.5765535836809,17.30591593257429,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

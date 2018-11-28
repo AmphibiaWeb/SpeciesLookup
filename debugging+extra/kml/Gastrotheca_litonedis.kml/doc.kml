@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Gastrotheca_litonedis">
+  <name>Gastrotheca_litonedis</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Gastrotheca_litonedis</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Gastrotheca_litonedis]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Gastrotheca litonedis</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>HEMIPHRACTIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Gastrotheca</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>litonedis</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -79.12955786130624,-2.837551975942915,0 -79.22901391875729,-3.128553033395747,0 -79.32662819703364,-3.213274859247292,0 -79.3174193029584,-3.259319329623338,0 -79.31557752378365,-3.226167310772723,0 -79.30084329398278,-3.226167310772723,0 -79.28795084155803,-3.226167310772723,0 -79.27690016920741,-3.215116638422103,0 -79.24743170690772,-3.215116638422103,0 -79.21243790888235,-3.215116638422103,0 -79.19402012073192,-3.213274859247292,0 -79.17744411085698,-3.207749522622351,0 -79.15902632270661,-3.228009089947477,0 -79.16086810188136,-3.253793993897659,0 -79.1719187751313,-3.480332791025433,0 -79.14429209200642,-3.467440340399321,0 -78.80356300582804,-3.051198320645938,0 -79.0024751207302,-2.907539571993596,0 -79.12955786130624,-2.837551975942915,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Aromobates_haydeeae">
+  <name>Aromobates_haydeeae</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Aromobates_haydeeae</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Aromobates_haydeeae]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Aromobates haydeeae</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2009</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>AROMOBATIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Aromobates</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>haydeeae</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -71.79917030286714,8.059442720705022,0 -71.81474856889128,8.062039099424965,0 -71.8251340801736,8.067231854166778,0 -71.83292321273603,8.054249965963209,0 -71.83292321273603,8.03607532211845,0 -71.8173449467119,8.015304299553804,0 -71.80436305760901,8.002322412249555,0 -71.80436305760901,7.989340523146666,0 -71.79917030286714,7.955587613277771,0 -71.783592036843,7.934816591612446,0 -71.75243550389536,7.91404556994712,0 -71.72647172838754,7.911449193025874,0 -71.69531519543989,7.91404556994712,0 -71.65896590775043,7.927027459050066,0 -71.63559850916386,7.937412970332389,0 -71.61482748659921,7.97376225712253,0 -71.59924922057502,8.004918789170858,0 -71.60444197621621,8.020497056094314,0 -71.62521299788153,8.023093433015561,0 -71.64858039736743,8.03607532211845,0 -71.65377315210924,8.051653588142642,0 -71.66675504121213,8.051653588142642,0 -71.68752606197813,8.043864454680886,0 -71.71089346056471,8.033478944297883,0 -71.72906810530878,8.04126807686032,0 -71.74464637133292,8.051653588142642,0 -71.75762826043581,8.075020986729214,0 -71.76541739299825,8.085406498011537,0 -71.77839928120181,8.093195630573916,0 -71.79397754722601,8.09059925275335,0 -71.79397754722601,8.080213742370347,0 -71.7913811703047,8.072424608908648,0 -71.79657392504657,8.062039099424965,0 -71.79917030286714,8.059442720705022,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

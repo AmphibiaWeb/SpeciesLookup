@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Allobates_mandelorum">
+  <name>Allobates_mandelorum</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Allobates_mandelorum</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Allobates_mandelorum]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Allobates mandelorum</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>AROMOBATIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Allobates</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>mandelorum</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -64.21048091965866,10.04621608160693,0 -64.20790159478275,10.04105743005641,0 -64.20532226900747,10.04105743005641,0 -64.19500496590644,10.03331945273061,0 -64.19500496590644,10.01784349987764,0 -64.18468766370467,10.00236754612541,0 -64.17179103572767,9.992050243024323,0 -64.15373575620015,9.986891592373127,0 -64.13310115089735,9.997208894574897,0 -64.11246654559454,10.0101055225519,0 -64.08409396386531,10.02558147630413,0 -64.06088003368654,10.02042282475361,0 -64.03766610260851,10.01784349987764,0 -64.01703149820503,10.00494687100132,0 -63.99897621777819,10.00236754612541,0 -63.98350026492523,10.00494687100132,0 -63.968024311173,10.02300215142822,0 -63.93449307789319,10.03074012785464,0 -63.91385847169107,10.03074012785464,0 -63.89322386728759,10.03589877940522,0 -63.87000993710888,10.04621608160693,0 -63.85453398335659,10.05395405803341,0 -63.83905802870504,10.06169203535922,0 -63.81584409762695,10.07200933756093,0 -63.81584409762695,10.08490596643725,0 -63.81068544697575,10.10554057084073,0 -63.81068544697575,10.11585787394176,0 -63.81584409762695,10.13133382679473,0 -63.83132005227856,10.14680978144628,0 -63.84937533180607,10.15454775787276,0 -63.88032723931059,10.15196843299685,0 -63.90612049616391,10.14423045567105,0 -63.93191375211791,10.12359585126757,0 -63.96028633384719,10.12359585126757,0 -63.97834161337471,10.15196843299685,0 -63.98865891557648,10.17518236317557,0 -64.0144521724298,10.18034101382676,0 -64.03766610260851,10.17518236317557,0 -64.06088003368654,10.17002371162505,0 -64.09183194119112,10.14423045567105,0 -64.11246654559454,10.12101652459296,0 -64.16147373262663,10.11843719881773,0 -64.18210833792944,10.11327854816653,0 -64.21821889698447,10.07200933756093,0 -64.21048091965866,10.04621608160693,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

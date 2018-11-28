@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Arthroleptis_xenodactylus">
+  <name>Arthroleptis_xenodactylus</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Arthroleptis_xenodactylus</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Arthroleptis_xenodactylus]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Arthroleptis xenodactylus</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2015</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature) &amp; Conservation International.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>ARTHROLEPTIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Arthroleptis</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>xenodactylus</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 38.62373899695717,-5.175501065721562,0 38.66001622017245,-5.14938146468279,0 38.68758690880884,-5.092788997114496,0 38.70354888677179,-5.043451973829463,0 38.77755442169928,-4.97525079468835,0 38.81238055641762,-4.850457147978943,0 38.80367402273799,-4.785158146731021,0 38.77755442169928,-4.760489635987881,0 38.73257066570369,-4.814179925662984,0 38.7166086877408,-4.849006060381328,0 38.68323364331803,-4.856261503765325,0 38.6324455306368,-4.862065859551706,0 38.60922810839054,-4.891087637584349,0 38.60487484110109,-4.924462682906437,0 38.61358137478067,-4.960739906121717,0 38.59907048531471,-5.017332373690067,0 38.58891286313815,-5.057962863295472,0 38.58165741795551,-5.091337907718241,0 38.58165741795551,-5.123261865442714,0 38.58746177374189,-5.150832554079045,0 38.59907048531471,-5.178403242715433,0 38.62373899695717,-5.175501065721562,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

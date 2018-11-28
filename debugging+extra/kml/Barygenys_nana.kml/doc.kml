@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Barygenys_nana">
+  <name>Barygenys_nana</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Barygenys_nana</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Barygenys_nana]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Presence</td>
+<td>1</td>
+</tr>
+<tr>
+<td>id_no</td>
+<td>57709</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Barygenys nana</td>
+</tr>
+<tr>
+<td>origin</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>seasonal</td>
+<td>1</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>dist_comm</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>island</td>
+<td></td>
+</tr>
+<tr>
+<td>subspecies</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>subpop</td>
+<td></td>
+</tr>
+<tr>
+<td>legend</td>
+<td>Extant (resident)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tax_comm</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>MICROHYLIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Barygenys</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>nana</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>code</td>
+<td>LC</td>
+</tr>
+<tr>
+<td>Colloquial</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vetted_by</td>
+<td></td>
+</tr>
+<tr>
+<td>shape_Leng</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 145.1895875319391,-6.134323665804459,0 145.2601555882098,-6.119354685070618,0 145.3178930887951,-6.108662555332614,0 145.4077069776949,-6.068032462328233,0 145.4782750339657,-6.031679221219065,0 145.510351424079,-6.010294961743057,0 145.5146282750749,-6.001741257952631,0 145.5231819788653,-5.978218571629725,0 145.5210435529177,-5.954695887105459,0 145.5060745721838,-5.922619497891446,0 145.4868287377561,-5.905512090310651,0 145.4312296640178,-5.873435701096696,0 145.3542463299043,-5.834944034039893,0 145.2323560508911,-5.747268570188339,0 145.1297116063057,-5.678838939865159,0 144.9736065121309,-5.537702828222905,0 144.6571194718862,-5.270399584772974,0 144.5437828966634,-5.178447269026208,0 144.5181217861915,-5.174170418030315,0 144.4881838229252,-5.176308843977893,0 144.4753532672396,-5.184862546868999,0 144.4710764153443,-5.197693102554581,0 144.4710764153443,-5.221215787978167,0 144.4796301191348,-5.255430603139757,0 144.6571194718862,-5.524872271638003,0 144.7832866027945,-5.676700513917524,0 144.8495778071701,-5.770791255611925,0 144.9458069739128,-5.924757923839081,0 145.0270671599216,-6.035956073114221,0 145.0741125307687,-6.095831998747713,0 145.127573180358,-6.127908387961668,0 145.1895875319391,-6.134323665804459,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

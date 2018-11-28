@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Atelopus_glyphus">
+  <name>Atelopus_glyphus</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Atelopus_glyphus</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Atelopus_glyphus]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Atelopus glyphus</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>BUFONIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Atelopus</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>glyphus</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -77.6768722628446,7.6411350634325,0 -77.67422660667251,7.643780717805953,0 -77.67316834384394,7.648013768220892,0 -77.6721100819147,7.654363341595001,0 -77.67475573808679,7.671824671071761,0 -77.67581400001603,7.69140252530633,0 -77.68110531236022,7.719446476773555,0 -77.68375096763299,7.745903035796516,0 -77.68110531236022,7.782942217709206,0 -77.68110531236022,7.819981401420591,0 -77.67316834384394,7.866015812879482,0 -77.6721100819147,7.903054995691548,0 -77.6721100819147,7.939035915674992,0 -77.67740139425888,7.960201163253146,0 -77.68533836187584,7.970254655627912,0 -77.69168793614932,7.974487705143531,0 -77.70756187138323,7.974487705143531,0 -77.72079015044506,7.970254655627912,0 -77.73296016757763,7.953322457565434,0 -77.74565931612449,7.924220243269645,0 -77.7699993503897,7.827389236723946,0 -77.77211587514751,7.746961297725761,0 -77.76682456280327,7.687169474891391,0 -77.75888759518631,7.658067259696338,0 -77.75095062756935,7.646426373978045,0 -77.7313727742341,7.638489407260408,0 -77.70862013331248,7.638489407260408,0 -77.6768722628446,7.6411350634325,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

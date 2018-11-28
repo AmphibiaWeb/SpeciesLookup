@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Cryptothylax_minutus">
+  <name>Cryptothylax_minutus</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Cryptothylax_minutus</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Cryptothylax_minutus]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Presence</td>
+<td>1</td>
+</tr>
+<tr>
+<td>id_no</td>
+<td>56095</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Cryptothylax minutus</td>
+</tr>
+<tr>
+<td>origin</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>seasonal</td>
+<td>1</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2014</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>dist_comm</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>island</td>
+<td></td>
+</tr>
+<tr>
+<td>subspecies</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>subpop</td>
+<td></td>
+</tr>
+<tr>
+<td>legend</td>
+<td>Extant (resident)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tax_comm</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>HYPEROLIIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Cryptothylax</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>minutus</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>code</td>
+<td>DD</td>
+</tr>
+<tr>
+<td>Colloquial</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vetted_by</td>
+<td></td>
+</tr>
+<tr>
+<td>shape_Leng</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 17.90534548960272,-0.8816280268119385,0 17.94855614315156,-0.9738107515648835,0 18.08106881037736,-1.057351346687256,0 18.20205863689665,-1.063112767040536,0 18.22798502758701,-0.9680493321109225,0 18.21646218777977,-0.8326559538091942,0 18.15596727407052,-0.6943818662301169,0 18.11275662232032,-0.5791534600641057,0 17.93991401172229,-0.5733920388115052,0 17.78147495290682,-0.6137219821836766,0 17.78435566308343,-0.723188967996407,0 17.90534548960272,-0.8816280268119385,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

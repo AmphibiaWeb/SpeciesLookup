@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Anomaloglossus_parkerae">
+  <name>Anomaloglossus_parkerae</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Anomaloglossus_parkerae</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Anomaloglossus_parkerae]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Anomaloglossus parkerae</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>AROMOBATIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Anomaloglossus</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>parkerae</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -61.51471900627706,6.23628222644362,0 -61.52245376492925,6.205343188237578,0 -61.51471900627706,6.189873668235236,0 -61.51471900627706,6.162802008905658,0 -61.51471900627706,6.151199869578363,0 -61.52245376492925,6.135730349576022,0 -61.53792328493159,6.097056551818469,0 -61.53792328493159,6.073852273163936,0 -61.54179066380806,6.042913234058574,0 -61.54565804358379,6.004239435401644,0 -61.53405590515587,5.981035155847792,0 -61.49151472582389,5.973300397195601,0 -61.46444306739363,5.95783087719326,0 -61.43350402918753,5.961698256969044,0 -61.39869761030644,5.961698256969044,0 -61.37856505783111,5.961698256969044,0 -61.37496224691012,5.968003176305615,0 -61.36863281655121,5.970715787903316,0 -61.36546810227105,5.970715787903316,0 -61.36207740185057,5.970291950912838,0 -61.33295215321925,5.996504675850133,0 -61.30974787276608,6.023576335179769,0 -61.30201311411389,6.046780613834301,0 -61.29041097388728,6.066117512713106,0 -61.28267621433577,6.081587031816127,0 -61.25947193478191,6.139597730251126,0 -61.25173717612972,6.18600628756019,0 -61.27494145478426,6.213077946889769,0 -61.30974787276608,6.232414846667894,0 -61.36775857120108,6.255619126221745,0 -61.39869761030644,6.274956025100551,0 -61.44123878783972,6.278823404876277,0 -61.4837799671717,6.271088645324767,0 -61.50698424582623,6.240149606219404,0 -61.51471900627706,6.23628222644362,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Arthroleptis_perreti">
+  <name>Arthroleptis_perreti</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Arthroleptis_perreti</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Arthroleptis_perreti]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Arthroleptis perreti</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>Philip Bowles</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2012</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature) and Conservation International.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>ARTHROLEPTIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Arthroleptis</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>perreti</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 9.833643417709595,4.964817670798936,0 9.835106030119221,4.964817670798936,0 9.840225171754298,4.965548977003721,0 9.84424735633047,4.968108548270948,0 9.847903885555922,4.972130731947743,0 9.879350046967147,4.999920363234196,0 9.883006577091919,5.005405158421354,0 9.884469190400864,5.010158648303047,0 9.885200495706386,5.019665627167001,0 9.850829110375173,5.176530778872404,0 9.844978661635992,5.182381227611586,0 9.840225171754298,5.184209492673972,0 9.835106030119221,5.185306452430893,0 9.827792968970414,5.184575146226052,0 9.82303947908872,5.182746881163666,0 9.820845561373631,5.180187309896496,0 9.817189031248859,5.175799472667563,0 9.718828364237652,5.011621259813353,0 9.717000099175266,5.006136463726875,0 9.714806180560856,5.002114280949343,0 9.714806180560856,4.995898178658081,0 9.717731405380107,4.990047730818162,0 9.72467881297689,4.98346597587414,0 9.772945012602293,4.96518332435096,0 9.780258073751156,4.964817670798936,0 9.7996376850312,4.964817670798936,0 9.833643417709595,4.964817670798936,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

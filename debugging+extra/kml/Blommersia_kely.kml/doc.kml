@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Blommersia_kely">
+  <name>Blommersia_kely</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Blommersia_kely</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Blommersia_kely]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Presence</td>
+<td>1</td>
+</tr>
+<tr>
+<td>id_no</td>
+<td>57491</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Blommersia kely</td>
+</tr>
+<tr>
+<td>origin</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>seasonal</td>
+<td>1</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>dist_comm</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>island</td>
+<td></td>
+</tr>
+<tr>
+<td>subspecies</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>subpop</td>
+<td></td>
+</tr>
+<tr>
+<td>legend</td>
+<td>Extant (resident)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tax_comm</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>MANTELLIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Blommersia</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>kely</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>code</td>
+<td>LC</td>
+</tr>
+<tr>
+<td>Colloquial</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vetted_by</td>
+<td></td>
+</tr>
+<tr>
+<td>shape_Leng</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 47.5862088769382,-20.70095984721911,0 47.64064778117023,-20.68735012161079,0 47.66786723238693,-20.65196483520896,0 47.68692084841848,-20.59208204055369,0 47.68692084841848,-20.45598478267152,0 47.68692084841848,-20.27089251187988,0 47.71414029963518,-20.02591744823161,0 47.74952558693633,-19.70744986521908,0 47.75496947735957,-19.35904088442925,0 47.67875501323334,-19.10045609427328,0 47.63248194508577,-18.99157828760787,0 47.57804304175301,-18.94530522035961,0 47.56443331614469,-18.93713938517442,0 47.51543830323516,-18.93169549385192,0 47.45555551037853,-18.93986132993638,0 47.36028742932143,-18.98069050676145,0 47.27862907387271,-19.04873913570253,0 47.21058044493162,-19.14400721675958,0 47.17791710419107,-19.21205584570066,0 47.17791710419107,-19.32637754189,0 47.21058044493162,-19.58496233204596,0 47.23779989704764,-20.05585884510958,0 47.30040463556554,-20.42332144103165,0 47.32762408678224,-20.5376431381203,0 47.36845326540595,-20.60024787663815,0 47.40111660704582,-20.6465209438864,0 47.49094079678042,-20.68735012161079,0 47.5862088769382,-20.70095984721911,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

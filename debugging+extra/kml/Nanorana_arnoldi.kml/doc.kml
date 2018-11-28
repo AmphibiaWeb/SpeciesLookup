@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Nanorana_arnoldi">
+  <name>Nanorana_arnoldi</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Nanorana_arnoldi</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Nanorana_arnoldi]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Nanorana arnoldi</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>DICROGLOSSIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Nanorana</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>arnoldi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 98.05224707414322,27.73605717040215,0 98.11136149703555,27.69445813073821,0 98.36156237270541,27.53508015812287,0 98.70383860037117,27.41528347834992,0 98.72095241112493,27.11293947787465,0 98.75518003443108,26.71361721406322,0 98.74377082576308,26.46261464764791,0 98.6810201848337,26.30288574158374,0 98.63538335375881,26.14315683731826,0 98.57833731671383,26.12033842088147,0 98.48298725255972,25.83043053434176,0 98.41574393683328,25.73285622643374,0 98.86051182865805,25.59447767270649,0 98.86051182865805,25.78913878312841,0 98.8369165427643,25.93660932086351,0 98.88410711455174,26.39671739938854,0 98.88410711455174,27.25204651843211,0 98.74253539918936,27.75934516694593,0 98.55967193171432,28.09557799273023,0 98.45900463315735,28.3304979650091,0 98.31938026928407,28.3828571006747,0 98.03028926483773,28.72012994024459,0 97.40392542082157,28.76831177356957,0 96.97028891460178,28.67194810602035,0 96.94339483900069,28.50259667799435,0 97.23833591357163,28.31973321141862,0 97.52147934609502,28.08378034978335,0 97.63945577736229,27.98939920620848,0 97.76897524631062,27.8952032276469,0 97.76897524631062,27.84021937922103,0 97.79876316938481,27.81043145614683,0 98.00727862910549,27.72106768782356,0 98.05224707414322,27.73605717040215,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Aromobates_orostoma">
+  <name>Aromobates_orostoma</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Aromobates_orostoma</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Aromobates_orostoma]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Aromobates orostoma</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>AROMOBATIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Aromobates</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>orostoma</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -71.8297700259659,8.051746963851372,0 -71.83160865031891,8.047701989555208,0 -71.8297700259659,8.042921565877634,0 -71.82829912630359,8.039612040962993,0 -71.82498960138895,8.037405691019899,0 -71.820209176812,8.034096167004577,0 -71.81138377793894,8.032257541752188,0 -71.80476472900898,8.035567065767509,0 -71.79851340476978,8.044760190230647,0 -71.79410070488359,8.04843743983605,0 -71.79004951627212,8.050788661567538,0 -71.78343668165752,8.053953313794466,0 -71.7742435580937,8.057630564299132,0 -71.76799223385444,8.064249613229094,0 -71.762108634306,8.069397761597486,0 -71.76027000995293,8.07932633634141,0 -71.76284408368747,8.084474484709745,0 -71.76394725865902,8.087416284933624,0 -71.76578588391135,8.092196708611255,0 -71.76909540792667,8.09771258256967,0 -71.77056630758898,8.106537982342047,0 -71.77939170736136,8.113524755962772,0 -71.78527530601053,8.121246979864282,0 -71.78711393126287,8.127498305002803,0 -71.79410070488359,8.135955979185155,0 -71.79777795538831,8.141471853143571,0 -71.8102806029674,8.144781377158893,0 -71.81703727604941,8.142131850304679,0 -71.82637919334508,8.143169840615713,0 -71.83565362461502,8.146620002411225,0 -71.84337584941591,8.149194077045081,0 -71.85330442326051,8.151032702297414,0 -71.86176209744281,8.149745663631506,0 -71.87058749541654,8.145332964644638,0 -71.87463246971265,8.14110412755349,0 -71.87849358211309,8.134117353932766,0 -71.88235469361416,8.125291955059709,0 -71.88382559417579,8.111686131609758,0 -71.88529649293878,8.104331633298273,0 -71.88382559417579,8.091461259229789,0 -71.87279384535964,8.078590886060567,0 -71.86212982123425,8.072339561821366,0 -71.85330442326051,8.069030036906725,0 -71.83987307278403,8.066358524326461,0 -71.83234409970038,8.060204638033667,0 -71.82949316517738,8.054940624610197,0 -71.8297700259659,8.051746963851372,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

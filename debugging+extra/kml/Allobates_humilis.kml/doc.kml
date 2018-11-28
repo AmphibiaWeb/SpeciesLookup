@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Allobates_humilis">
+  <name>Allobates_humilis</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Allobates_humilis</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Allobates_humilis]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Allobates humilis</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>AROMOBATIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Allobates</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>humilis</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -70.27505388712717,9.181613853296767,0 -70.28554512720581,9.174120109355613,0 -70.38342055241651,9.084119718150532,0 -70.55554629992179,8.937869082891893,0 -70.57467138327769,8.909743961314803,0 -70.56567134415718,8.884993854183051,0 -70.55217128457707,8.871493794602998,0 -70.53529621235026,8.871493794602998,0 -70.49817105075334,8.8906188779589,0 -70.4340457717949,8.944619112681949,0 -70.20904479468152,9.130244918867959,0 -70.13591947660251,9.256245465655752,0 -70.0999193210198,9.31249570970931,0 -70.10779435502542,9.323745759059591,0 -70.11144840661865,9.321005219915037,0 -70.12372435039839,9.322121214722358,0 -70.13598376643762,9.308329371003708,0 -70.15590531817583,9.303732089764196,0 -70.17582686901477,9.299134809423947,0 -70.18655385917322,9.288407820164821,0 -70.19728084843234,9.27921325678642,0 -70.20954026537089,9.266953840747192,0 -70.22026725373075,9.254694424707964,0 -70.23252666976998,9.240902580989371,0 -70.23252666976998,9.228643164950142,0 -70.23405909744935,9.219448601571742,0 -70.25091579472809,9.211786466772082,0 -70.26317521076732,9.196462197172707,0 -70.27505388712717,9.181613853296767,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

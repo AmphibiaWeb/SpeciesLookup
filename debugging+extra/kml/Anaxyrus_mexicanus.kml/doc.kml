@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Anaxyrus_mexicanus">
+  <name>Anaxyrus_mexicanus</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Anaxyrus_mexicanus</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Anaxyrus_mexicanus]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Anaxyrus mexicanus</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>BUFONIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Anaxyrus</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>mexicanus</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -108.5361753765923,30.86504677978513,0 -108.8180901355513,30.72532329173657,0 -108.9158613239409,30.5053381187592,0 -109.0390608827535,29.73357438465018,0 -109.0885356210221,29.33777648119968,0 -109.1380103592906,29.10689437137819,0 -109.1380103592906,28.74407962557433,0 -109.1709935178366,28.43073961803901,0 -109.1709935178366,28.05143329431115,0 -109.0136325123306,27.37666011187474,0 -108.9158613239409,27.03446095520894,0 -108.6469905576681,26.66781900234514,0 -108.2784531810694,26.40496237131646,0 -107.8159354617521,26.13007746890014,0 -107.5145730308207,25.72990549414328,0 -107.0171627006981,24.93049603466432,0 -106.1293824737222,23.80801176083412,0 -105.8536111896047,23.43372104069351,0 -105.8405014960472,23.40682785362259,0 -105.8179054468789,23.31321565108146,0 -105.8156514958199,23.29163823431713,0 -105.8097370360354,23.27507774674069,0 -105.782560127248,23.24936142508977,0 -105.7444204728265,23.21913754666048,0 -105.7206731412524,23.19826867965588,0 -105.6889964359368,23.17765364360082,0 -105.6487115279147,23.15149363242523,0 -105.5975437943106,23.12278205934462,0 -105.577469532293,23.10975589571808,0 -105.5594791280593,23.10255973474403,0 -105.5429279565599,23.10184011882649,0 -105.5191806249858,23.10615781613035,0 -105.5004706057338,23.1119147452693,0 -105.4789647093538,23.11953522886779,0 -105.4587328708253,23.13134438043886,0 -105.4402286245514,23.14535928480319,0 -105.3932478034433,23.18675482227729,0 -105.349844427878,23.23251547470943,0 -105.1464799862623,23.42619589692316,0 -104.7378889632051,23.8178221349836,0 -104.6887899320097,23.88051346292605,0 -104.654909580113,23.96182630693858,0 -104.6413574398939,24.00925879905441,0 -104.6244172639455,24.16172037989168,0 -104.6223777157589,24.22788800482761,0 -104.6223777157589,24.28250538311698,0 -104.6269291639497,24.35988000325961,0 -104.6360320612306,24.37808579602273,0 -104.6447454747238,24.44631533168723,0 -104.6616856506722,24.53440424625899,0 -104.7013079067345,24.65918643830355,0 -104.770102775123,24.78850688098783,0 -104.8362957807257,24.90605378705266,0 -104.9227732972498,25.01073709544068,0 -105.0365595020194,25.1427290929733,0 -105.1366913631159,25.24741240226058,0 -105.2673442188606,25.40125938331391,0 -105.5593376458157,25.85805324426184,0 -105.7526329657388,26.16743718357918,0 -106.004610288434,26.5506995746257,0 -106.1625852179334,26.79083564984541,0 -106.2405100262167,26.9094168796853,0 -106.3344418738934,27.02895537579002,0 -106.4031357133425,27.10253488297855,0 -106.5115528377932,27.21095200742923,0 -106.6809545945789,27.42101018577148,0 -107.8978423349558,30.49899239268484,0 -108.1602498607425,30.83296560887578,0 -108.5361753765923,30.86504677978513,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

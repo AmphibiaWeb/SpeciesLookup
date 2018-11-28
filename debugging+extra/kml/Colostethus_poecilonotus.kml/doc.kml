@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Colostethus_poecilonotus">
+  <name>Colostethus_poecilonotus</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Colostethus_poecilonotus</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Colostethus_poecilonotus]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Colostethus poecilonotus</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>DENDROBATIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Colostethus</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>poecilonotus</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -77.75483870883932,-5.814632015555048,0 -77.7353091320108,-5.79998483293366,0 -77.72554434359654,-5.790220045418721,0 -77.7157795560816,-5.764180609047799,0 -77.71252462631043,-5.736513709140297,0 -77.70926969743857,-5.705591880360942,0 -77.71252462631043,-5.663277796932732,0 -77.7157795560816,-5.632355967254057,0 -77.72717180893181,-5.606316531782454,0 -77.74670138486101,-5.580277096310908,0 -77.77599575010373,-5.557492589711217,0 -77.80040772113938,-5.549355266632176,0 -77.84272180366827,-5.542845407989148,0 -77.87038870357577,-5.546100336861002,0 -77.89642813904732,-5.564002449253565,0 -77.91921264474775,-5.604689067346556,0 -77.9338598282684,-5.647003149875445,0 -77.93548729270435,-5.689317232404278,0 -77.92897743406127,-5.731631314933168,0 -77.91595771587583,-5.770690467690884,0 -77.90544758823558,-5.783302622118242,0 -77.90530522015973,-5.78422801640977,0 -77.90432709681801,-5.784647211099866,0 -77.89154574484019,-5.79998483293366,0 -77.8476041978754,-5.817886945326222,0 -77.8215647624038,-5.822769338634032,0 -77.78413307408209,-5.821141875097396,0 -77.75483870883932,-5.814632015555048,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

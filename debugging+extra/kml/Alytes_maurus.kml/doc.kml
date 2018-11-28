@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Alytes_maurus">
+  <name>Alytes_maurus</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Alytes_maurus</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Alytes_maurus]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Alytes maurus</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2009</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>ALYTIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Alytes</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>maurus</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -3.681800000369663,34.97803559266851,0 -3.668099999915,34.97963559270846,0 -3.663000000349712,34.98583559263852,0 -3.660899999735136,34.99333559316312,0 -3.659299999695179,35.00553559279342,0 -3.660500000174807,35.01153559339298,0 -3.661200000079873,35.01553559259355,0 -3.667700000354671,35.02563559340797,0 -3.67739999981012,35.02903559281839,0 -3.693099999865069,35.03023559329802,0 -3.713100000364705,35.02593559285339,0 -3.726499999575253,35.01303559331802,0 -3.729300000094895,35.002135593383,0 -3.728099999615267,34.99153559289334,0 -3.723699999954988,34.98493559340295,0 -3.714999999850079,34.98123559274848,0 -3.702800000219781,34.97833559301324,0 -3.690900000034901,34.97803559266851,0 -3.681800000369663,34.97803559266851,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Alytes maurus</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2009</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>ALYTIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Alytes</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>maurus</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -5.398600000089857,35.92693559310317,0 -5.402099999615246,35.92803559256862,0 -5.412200000429607,35.92043559282843,0 -5.419700000054888,35.91843559322808,0 -5.427399999909994,35.92073559317316,0 -5.43209999991501,35.92003559326804,0 -5.439699999655204,35.91463559335801,0 -5.438299999845071,35.89573559322309,0 -5.432300000144835,35.88083559318812,0 -5.419299999595239,35.86353559309322,0 -5.409500000024934,35.85533559266355,0 -5.397300000394637,35.84833559271351,0 -5.374300000044912,35.84943559307823,0 -5.355500000024961,35.8532355929483,0 -5.341700000354706,35.85983559333801,0 -5.341500000124881,35.86253559284342,0 -5.337099999565282,35.87743559287839,0 -5.331600000439607,35.88413559338301,0 -5.323099999665203,35.88943559317812,0 -5.322700000104874,35.89333559316316,0 -5.322200000429632,35.89833559261354,0 -5.337299999795107,35.90353559319311,0 -5.341899999685211,35.90933559266352,0 -5.342899999935014,35.91483559268852,0 -5.348800000419658,35.92133559296332,0 -5.356199999930027,35.92413559258358,0 -5.361200000279723,35.92413559258358,0 -5.377099999665234,35.92403559336799,0 -5.38439999996001,35.91983559303822,0 -5.389200000079882,35.91683559318813,0 -5.392600000389678,35.91773559332302,0 -5.398600000089857,35.92693559310317,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Alytes maurus</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2009</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>ALYTIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Alytes</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>maurus</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -4.140799999920034,33.615335593363,0 -4.099099999665214,33.64513559343294,0 -4.081199999780097,33.71663559285838,0 -4.081199999780097,33.80593559295329,0 -4.081199999780097,33.94293559300326,0 -4.051399999710156,34.00253559314314,0 -4.021699999755128,34.04423559339796,0 -3.991899999685188,34.06203559316816,0 -3.991899999685188,34.12803559256861,0 -3.991899999685188,34.1335355925936,0 -4.009700000354712,34.17523559284837,0 -4.012499999974978,34.17523559284837,0 -4.044299999645205,34.17523559284837,0 -4.069299999595273,34.17523559284837,0 -4.194400000359678,34.11513559303324,0 -4.218199999830063,34.10373559342293,0 -4.319500000224764,34.03233559321313,0 -4.319500000224764,33.98463559325808,0 -4.30760000003994,33.96673559337296,0 -4.294799999720169,33.94283559288834,0 -4.264700000204812,33.88643559282838,0 -4.259900000084883,33.87743559327805,0 -4.247999999900003,33.68683559278844,0 -4.200400000059915,33.615335593363,0 -4.140799999920034,33.615335593363,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Alytes maurus</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2009</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>ALYTIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Alytes</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>maurus</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -4.708300000044915,34.96973559302325,0 -4.768800000319686,35.01713559263357,0 -4.894800000319719,35.14133559326308,0 -4.921699999755163,35.16693559300325,0 -4.966299999745161,35.22513559333299,0 -5.050500000274724,35.30673559267353,0 -5.080499999675226,35.330035593368,0 -5.084499999775119,35.33433559291336,0 -5.088900000334718,35.33913559303323,0 -5.097099999865066,35.34303559301827,0 -5.100099999715155,35.34393559315316,0 -5.149700000054907,35.36563559290835,0 -5.212199999930022,35.38963559260856,0 -5.239800000169851,35.40523559344791,0 -5.269799999570296,35.42323559344794,0 -5.277099999865072,35.44293559270352,0 -5.285599999740157,35.50763559330801,0 -5.358000000199809,35.58013559298325,0 -5.391800000369699,35.58973559322311,0 -5.41590000018482,35.54143559257858,0 -5.438999999750138,35.47223559309822,0 -5.500400000159857,35.39683559278842,0 -5.546000000399658,35.33913559303323,0 -5.546000000399658,35.30913559273347,0 -5.548399999560274,35.27913559333302,0 -5.543600000339723,35.261135593333,0 -5.540799999820081,35.24093559260359,0 -5.534399999660195,35.22983559333801,0 -5.501699999855077,35.19513559303323,0 -5.483400000409631,35.18163559280839,0 -5.401700000054916,35.05433559311319,0 -5.391700000254787,35.03903559261858,0 -5.37639999976011,35.03133559276347,0 -5.37639999976011,35.02173559342293,0 -5.379699999954994,35.01673559307324,0 -5.420800000419661,34.95433559331303,0 -5.428500000274767,34.91193559315315,0 -5.399600000339717,34.89843559292831,0 -5.373299999795108,34.89973559262353,0 -5.341899999685211,34.91523559334803,0 -5.337199999680195,34.91643559292834,0 -5.281799999870032,34.93083559328807,0 -5.250900000334696,34.93083559328807,0 -5.191699999755144,34.93083559328807,0 -5.151699999655193,34.92163559260854,0 -5.125999999800115,34.92163559260854,0 -5.116699999905052,34.92593559305323,0 -5.103199999680214,34.92503559291833,0 -5.068999999949995,34.9408355930882,0 -5.034700000104863,34.93813559268352,0 -4.997900000084883,34.93023559259859,0 -4.955800000269733,34.9171355928334,0 -4.907799999969996,34.89533559296331,0 -4.897800000169809,34.89083559318812,0 -4.845199999979968,34.85923559284839,0 -4.824900000034916,34.83893559290334,0 -4.816199999930007,34.83023559279843,0 -4.784599999590284,34.80923559294831,0 -4.753000000149825,34.78553559269352,0 -4.734599999690204,34.75653559264356,0 -4.724599999890017,34.73033559311318,0 -4.717900000284715,34.72093559310321,0 -4.716200000129845,34.7184355929283,0 -4.703000000249745,34.69863559265855,0 -4.694400000259748,34.6915355925936,0 -4.676899999935017,34.66963559260859,0 -4.664999999750137,34.65773559332303,0 -4.557799999770111,34.65773559332303,0 -4.546300000044937,34.65883559278842,0 -4.43860000038967,34.66963559260859,0 -4.319500000224764,34.68753559339297,0 -4.27779999997,34.74113559293335,0 -4.266799999920011,34.80173559332303,0 -4.26589999978512,34.80663559265855,0 -4.268600000189792,34.80743559267853,0 -4.367100000064909,34.83643559272849,0 -4.55559999994,34.84783559323807,0 -4.610899999635251,34.87763559330801,0 -4.666200000229765,34.92243559262857,0 -4.673900000084871,34.93103559261857,0 -4.708300000044915,34.96973559302325,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

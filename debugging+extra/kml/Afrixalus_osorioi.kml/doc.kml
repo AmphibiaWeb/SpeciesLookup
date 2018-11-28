@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Afrixalus_osorioi">
+  <name>Afrixalus_osorioi</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Afrixalus_osorioi</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Afrixalus_osorioi]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Presence</td>
+<td>1</td>
+</tr>
+<tr>
+<td>id_no</td>
+<td>56073</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Afrixalus osorioi</td>
+</tr>
+<tr>
+<td>origin</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>seasonal</td>
+<td>1</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>dist_comm</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>island</td>
+<td></td>
+</tr>
+<tr>
+<td>subspecies</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>subpop</td>
+<td></td>
+</tr>
+<tr>
+<td>legend</td>
+<td>Extant (resident)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tax_comm</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>HYPEROLIIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Afrixalus</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>osorioi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>code</td>
+<td>LC</td>
+</tr>
+<tr>
+<td>Colloquial</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vetted_by</td>
+<td></td>
+</tr>
+<tr>
+<td>shape_Leng</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 14.07379317981145,-12.71167484741625,0 14.54583702455909,-12.74117758737572,0 15.07688635102431,-11.38405153215246,0 14.98837813024659,-10.55797480339442,0 14.98837813024659,-9.289356969848257,0 15.04738361106485,-8.168252836998761,0 15.81445485900457,-7.637203512332178,0 18.23367956535969,-6.221071976290602,0 20.32837412766389,-4.922951401885655,0 21.71500292284668,-4.244388374723656,0 23.24914541962545,-3.683836309198284,0 24.60627147394939,-3.683836309198284,0 26.05190574995044,-3.654333568339439,0 27.88107564992134,-3.860852750753793,0 28.38262223462846,-3.713339049157753,0 28.35311949466899,-2.975770541177496,0 28.35311949466899,-2.415218474752749,0 28.76615786039702,-1.677649966772492,0 29.3966770677925,-1.30502748363142,0 29.87936260290184,-1.124020408415049,0 30.75423013461307,-0.7519503077604668,0 31.61904171790098,-0.3999921057510392,0 32.49390924961222,0.00224584017342977,0 34.9274488220056,0.1832529162891206,0 34.96767261659801,0.3944278367753213,0 32.8559234018436,1.188847780200945,0 31.65926551339277,1.872652288272548,0 31.15646808143686,1.882708236695805,0 30.5128873670584,2.003379619573821,0 30.01008993510249,2.113995054927898,0 29.40673301621575,2.405617566397609,0 28.81343204575234,2.717351973814573,0 28.30057866627249,3.09947802289247,0 27.76306468918409,3.367318628352052,0 27.61555098668873,3.455826849129835,0 27.14350714194109,3.485329589089304,0 27.02549618120384,3.426324109170366,0 25.57986190520279,2.600247380412327,0 24.84229339722253,2.393728197098653,0 24.10472488924228,2.305219976320871,0 23.19013993880719,2.098700793906573,0 22.36406321004915,2.098700793906573,0 21.21345633813957,1.74466790989618,0 20.65290427171482,1.626656949158928,0 20.03334672537113,1.331629545966848,0 19.29577821739088,1.095607622693706,0 18.38119326695573,-0.1730102108525102,0 17.85014394138983,-0.7335622772772013,0 16.61102884780314,-3.595328088420501,0 15.4899247149537,-4.893448661926186,0 14.63434524623619,-6.250574717149448,0 14.19180414144802,-7.224165146604207,0 13.92627947821541,-8.227258317817075,0 14.01478769899319,-9.93841725705073,0 14.04429043985198,-11.20703508969757,0 14.07379317981145,-12.71167484741625,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

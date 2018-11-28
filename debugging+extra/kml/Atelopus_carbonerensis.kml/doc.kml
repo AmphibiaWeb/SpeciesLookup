@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Atelopus_carbonerensis">
+  <name>Atelopus_carbonerensis</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Atelopus_carbonerensis</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Atelopus_carbonerensis]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Atelopus carbonerensis</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>BUFONIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Atelopus</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>carbonerensis</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -71.39100833196892,8.661742481130659,0 -71.40063716717151,8.655323257962039,0 -71.41668522464335,8.661742481130659,0 -71.42310444781197,8.664952093164629,0 -71.43594289414921,8.652113646827388,0 -71.44878133958713,8.636065589355496,0 -71.45520056275575,8.620017530984342,0 -71.44878133958713,8.60396947441177,0 -71.43594289414921,8.591131028074528,0 -71.42952367098059,8.581502192871938,0 -71.43273328211524,8.565454136299422,0 -71.43594289414921,8.559034913130802,0 -71.41026600237404,8.555825301096832,0 -71.39100833196892,8.568663747434073,0 -71.37816988563168,8.587921416040558,0 -71.36533144019376,8.594340639209179,0 -71.33965454841865,8.594340639209179,0 -71.31397765574417,8.613598307815721,0 -71.3107680437102,8.645694423658767,0 -71.3107680437102,8.674580926568581,0 -71.31397765574417,8.690628984939735,0 -71.33965454841865,8.703467431276977,0 -71.35891221702514,8.697048208108356,0 -71.35249299385652,8.687419372905765,0 -71.34928338272192,8.681000149737145,0 -71.35249299385652,8.66816170429928,0 -71.35891221702514,8.664952093164629,0 -71.37816988563168,8.658532869996009,0 -71.39100833196892,8.658532869996009,0 -71.39100833196892,8.661742481130659,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

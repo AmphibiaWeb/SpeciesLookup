@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Craugastor_amniscola">
+  <name>Craugastor_amniscola</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Craugastor_amniscola</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Craugastor_amniscola]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Craugastor amniscola</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>CRAUGASTORIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Craugastor</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>amniscola</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -91.89914717170456,16.01916013583167,0 -91.90288733788032,16.02305614192744,0 -91.90411539181184,16.02278120388951,0 -92.91257322137705,16.75779181424088,0 -93.02743689219881,16.81409753477345,0 -93.09500375701771,16.82986313677441,0 -93.15581393526486,16.82085422224463,0 -93.20761519808286,16.7825663307716,0 -93.2301374857563,16.72626061113834,0 -93.21662411261269,16.64518037317572,0 -93.14905724779374,16.57310904974293,0 -92.12950001611284,15.79268038009553,0 -92.12450236299361,15.78759017684524,0 -92.02939258060309,15.70910152241737,0 -91.92135525604022,15.65369776613903,0 -91.82439868255312,15.61860872001648,0 -91.78930963732984,15.61029815693445,0 -91.77638209425822,15.61029815693445,0 -91.77084171827062,15.61214494893028,0 -91.74775682012114,15.62137890801023,0 -91.73021229705984,15.6370766390757,0 -91.72005494198197,15.6518509741432,0 -91.71174437800062,15.67678266518789,0 -91.7108209820027,15.70910152241737,0 -91.71359116999645,15.73957358765102,0 -91.75791417519901,15.84576412201665,0 -91.83640282962688,15.9538014456802,0 -91.8970583586563,16.01698428909373,0 -91.89751203155498,16.01759998834882,0 -91.89887060499439,16.01895856088891,0 -91.89914717170456,16.01916013583167,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

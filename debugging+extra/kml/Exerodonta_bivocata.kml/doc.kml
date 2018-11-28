@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Exerodonta bivocata">
+  <name>Exerodonta bivocata</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Exerodonta bivocata</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Exerodonta bivocata]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Exerodonta bivocata</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>HYLIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Exerodonta</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>bivocata</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+<tr>
+<td>centroid_x</td>
+<td>-92.7331</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>centroid_y</td>
+<td>17.0537</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -92.58842418572755,16.93969383540224,0 -92.5558314948276,16.95273091140251,0 -92.54062157312706,16.95924945030197,0 -92.52975734282705,16.98097791000259,0 -92.52975734282705,16.99184214120191,0 -92.55148580342706,17.01357060090254,0 -92.58842418572755,17.03529906240186,0 -92.63188110782681,17.04616329180254,0 -92.69706648872744,17.05702752210249,0 -92.74704194882685,17.08527452070263,0 -92.77963463972679,17.11786721160257,0 -92.80570879172734,17.16132413280252,0 -92.83395579122674,17.21999097660233,0 -92.84916571382661,17.2352008992022,0 -92.86002994412661,17.2352008992022,0 -92.88262754282681,17.2230329622015,0 -92.88610409702642,17.21781813090206,0 -92.88610409702642,17.15915128710225,0 -92.88175840472655,17.12004005820216,0 -92.86002994412661,17.07006459900208,0 -92.82743725322661,17.03312621580227,0 -92.76225187142671,16.989669293703,0 -92.69054795072731,16.95273091140251,0 -92.62970826122722,16.93969383540224,0 -92.58842418572755,16.93969383540224,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>6600aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

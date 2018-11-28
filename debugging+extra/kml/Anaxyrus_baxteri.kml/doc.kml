@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Anaxyrus_baxteri">
+  <name>Anaxyrus_baxteri</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Anaxyrus_baxteri</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Anaxyrus_baxteri]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Anaxyrus baxteri</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>AmphibiaWeb</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2015</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>AmphibiaWeb (amphibiaweb.org), University of California, Berkeley.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>modified from R. C. Stebbins, 2003; voucher data from VertNet, 9 Jun 2015.</td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>BUFONIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Anaxyrus</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>baxteri</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td>Wyoming Toad</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -106.2407731264786,41.58227700348095,0 -106.2883623461453,41.48228463173041,0 -106.3264337222385,41.34896163756957,0 -106.3026391124051,41.21087731143882,0 -106.2455320482654,41.14421598657856,0 -106.0599340895865,41.09183926646904,0 -105.8362647548145,41.04898560779964,0 -105.6173543427287,41.07755471118105,0 -105.4317563840498,41.1251699032685,0 -105.2794708796773,41.22516188741122,0 -105.1842924394445,41.31086938911108,0 -105.1938102839175,41.46800001618783,0 -105.2651941134176,41.62989245727113,0 -105.3603725536504,41.7870236266391,0 -105.5031402144493,41.92987037561738,0 -105.7268095492213,41.98700913726191,0 -105.9695145711405,41.92034725212403,0 -106.1360768417728,41.77750051753492,0 -106.2407731264786,41.58227700348095,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

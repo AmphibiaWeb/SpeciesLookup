@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Hypsiboas callipleura">
+  <name>Hypsiboas callipleura</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Hypsiboas callipleura</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Hypsiboas callipleura]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Hypsiboas callipleura</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>HYLIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Hypsiboas</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>callipleura</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+<tr>
+<td>centroid_x</td>
+<td>-66.2964</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>centroid_y</td>
+<td>-16.9934</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -65.20391941275068,-17.47449940592281,0 -65.15447852856119,-17.40033807873931,0 -65.15447852856119,-17.35089719544919,0 -65.18537908207895,-17.30763642088408,0 -65.26572051888678,-17.24583531474792,0 -65.45112383639588,-17.21493476212953,0 -65.72922881086089,-17.11605299285128,0 -65.98879345465417,-17.01099111394871,0 -66.31015920368424,-16.90592923414681,0 -66.66860561585645,-16.71434580701333,0 -66.85400893336555,-16.59692370616403,0 -67.19391501396666,-16.33117895184711,0 -67.42875921476593,-16.08397452910117,0 -67.53382109456783,-16.00363309229334,0 -67.61416253227503,-15.9789126501986,0 -67.62652275332238,-15.9789126501986,0 -67.65742330594077,-16.02217342386439,0 -67.64506308489342,-16.11487508171962,0 -67.50292054194944,-16.28173806675835,0 -67.18155479291931,-16.52894249040355,0 -66.77366749565834,-16.90592923414681,0 -66.43376141505723,-17.18403420861182,0 -66.14329621864556,-17.40033807873931,0 -65.86519124328123,-17.50539995944052,0 -65.63034704158264,-17.5363005111596,0 -65.35224206711769,-17.50539995944052,0 -65.20391941275068,-17.47449940592281,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>6600aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

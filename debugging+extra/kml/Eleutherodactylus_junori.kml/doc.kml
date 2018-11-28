@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Eleutherodactylus_junori">
+  <name>Eleutherodactylus_junori</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Eleutherodactylus_junori</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Eleutherodactylus_junori]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Eleutherodactylus junori</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>ELEUTHERODACTYLIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Eleutherodactylus</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>junori</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -77.68107798196326,18.24580377732252,0 -77.65859192977371,18.22653001804594,0 -77.63717664188846,18.21368084459533,0 -77.60826600387293,18.1911947933051,0 -77.55579854936354,18.16014262578159,0 -77.49476497862082,18.13337351637472,0 -77.43694370169044,18.11838281431545,0 -77.32986726316364,18.11517052140249,0 -77.23563999718806,18.13016122256244,0 -77.19066789280896,18.14515192372232,0 -77.10072368405076,18.17299179833287,0 -77.08573298289082,18.18584097088416,0 -77.07930839616552,18.19654861482678,0 -77.07930839616552,18.20725625876935,0 -77.08787451060016,18.21261008119035,0 -77.12213897193595,18.20725625876935,0 -77.22386158894113,18.18798250039214,0 -77.29024898120548,18.1783456198545,0 -77.37269783893407,18.17192103402857,0 -77.43051911586446,18.16870874111555,0 -77.47120816212697,18.17727485644952,0 -77.55044472694254,18.21368084459533,0 -77.59220453840868,18.23295460387192,0 -77.63931817139644,18.26400677139543,0 -77.65752116636867,18.27043135812073,0 -77.67037033802063,18.27364365103369,0 -77.68321951057192,18.26936059291705,0 -77.68857333299286,18.26186524188745,0 -77.68750256868856,18.25544065606147,0 -77.68107798196326,18.24580377732252,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Batrachoseps_kawia">
+  <name>Batrachoseps_kawia</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Batrachoseps_kawia</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Batrachoseps_kawia]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Presence</td>
+<td>1</td>
+</tr>
+<tr>
+<td>id_no</td>
+<td>59126</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Batrachoseps kawia</td>
+</tr>
+<tr>
+<td>origin</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>seasonal</td>
+<td>1</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>AmphibiaWeb</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2015</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>AmphibiaWeb (amphibiaweb.org), University of California, Berkeley.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>Stebbins, 2003; MVZ Arctos, 27 Apr 2016.</td>
+</tr>
+<tr>
+<td>dist_comm</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>island</td>
+<td></td>
+</tr>
+<tr>
+<td>subspecies</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>subpop</td>
+<td></td>
+</tr>
+<tr>
+<td>legend</td>
+<td>Extant (resident)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tax_comm</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>CAUDATA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>PLETHODONTIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Batrachoseps</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>kawia</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>code</td>
+<td>DD</td>
+</tr>
+<tr>
+<td>Colloquial</td>
+<td>Sequoia Slender Salamander</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vetted_by</td>
+<td>MSK</td>
+</tr>
+<tr>
+<td>shape_Leng</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -118.9537033669843,36.56686768406978,0 -118.9413857514827,36.53612573821314,0 -118.9302713249296,36.506111870292,0 -118.9254353020562,36.49304465087333,0 -118.9266539276305,36.46948472822533,0 -118.9315981281134,36.43310129649164,0 -118.9222400002346,36.40515852356293,0 -118.9146166856485,36.38544742774,0 -118.9015372945179,36.36568020426643,0 -118.8311635995641,36.33357136276079,0 -118.7872259380617,36.32091738645755,0 -118.7837915420481,36.32071404012196,0 -118.7118695807542,36.31897217669407,0 -118.664705083042,36.33322644829058,0 -118.623519691646,36.35846767767264,0 -118.5975827137218,36.37317327325489,0 -118.5892621217212,36.39092118627328,0 -118.5775996717338,36.41489187394569,0 -118.5725015115607,36.4342930653342,0 -118.5714571364241,36.44556234503917,0 -118.5759270170202,36.46569071735383,0 -118.5731919583442,36.5094331481224,0 -118.5598692149842,36.5787131177508,0 -118.5735870069666,36.5947934545174,0 -118.5861048314263,36.60945976233096,0 -118.6380532291282,36.63649871334376,0 -118.6432138617916,36.63784024616272,0 -118.6966535337812,36.64073181345615,0 -118.7309067597872,36.63714026626844,0 -118.7830336032456,36.63165487920731,0 -118.8313010413714,36.6142868056312,0 -118.8664530269474,36.61219652864624,0 -118.8954408198847,36.62180577646578,0 -118.9171376925897,36.64010416530029,0 -118.9173769303875,36.68581668212029,0 -118.9165032150729,36.68925239833244,0 -118.9179911626537,36.71190420256515,0 -118.9283662316109,36.72662700037638,0 -118.9470835960346,36.72465268537466,0 -118.9677443937408,36.71055091087462,0 -118.9752178793519,36.68419021643624,0 -118.9783844518096,36.64707832316616,0 -118.9702120835419,36.60798660782798,0 -118.9537033669843,36.56686768406978,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

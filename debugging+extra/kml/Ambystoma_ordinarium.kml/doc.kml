@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Ambystoma ordinarium">
+  <name>Ambystoma ordinarium</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Ambystoma ordinarium</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Ambystoma ordinarium]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Ambystoma ordinarium</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>CAUDATA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>AMBYSTOMATIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Ambystoma</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>ordinarium</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+<tr>
+<td>centroid_x</td>
+<td>-100.771</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>centroid_y</td>
+<td>19.486</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -100.6190603954209,19.26072929362204,0 -100.5810382221362,19.26377106788056,0 -100.5049938773655,19.28658437167144,0 -100.3574678478628,19.32916920499486,0 -100.2129835917194,19.37175403831827,0 -100.1627943249981,19.39000468117115,0 -100.1445436821452,19.40521354976556,0 -100.1338974726902,19.43258951359525,0 -100.1369392469487,19.45844459074533,0 -100.1521481164424,19.48886232883348,0 -100.1673569850368,19.50863385926522,0 -100.2738190678957,19.55426046594778,0 -100.4183033240391,19.5983661859508,0 -100.5445369364305,19.63334658497695,0 -100.7300851383184,19.6713687573623,0 -100.9019453582916,19.70178649455113,0 -101.0418669525977,19.72459979924139,0 -101.0920562202184,19.72916245928013,0 -101.1528916963947,19.73524600689774,0 -101.1939556430385,19.72003713830333,0 -101.2319778154238,19.6637643230651,0 -101.2699999878092,19.58011554309786,0 -101.3004177258973,19.47365346023906,0 -101.3080221601945,19.44019394789245,0 -101.3004177258973,19.41738064500083,0 -101.2730417611683,19.38544202023309,0 -101.2046018506948,19.359586943083,0 -101.0874935601796,19.33221097925332,0 -100.7711490849623,19.27897993737429,0 -100.6190603954209,19.26072929362204,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>6600aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

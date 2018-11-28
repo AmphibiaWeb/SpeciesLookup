@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Ameerega_pongoensis">
+  <name>Ameerega_pongoensis</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Ameerega_pongoensis</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Ameerega_pongoensis]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Ameerega pongoensis</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>Laurence Jarvis and Ariadne Angulo</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2014</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>DENDROBATIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Ameerega</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>pongoensis</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -76.25185523163361,-6.394695654380882,0 -76.28516768593994,-6.475597329253276,0 -76.24773986830024,-6.566218020645067,0 -76.2477443792996,-6.599335694386753,0 -76.29944445130036,-6.670713132405069,0 -76.34227475007964,-6.761132649951776,0 -76.33275690560669,-6.794445103358783,0 -76.33751582739347,-6.827757557665109,0 -76.35655151544006,-6.832516478552577,0 -76.38510504795954,-6.837275402138062,0 -76.41841750226587,-6.846793245711695,0 -76.44221211209924,-6.894382466277762,0 -76.44221211209924,-6.91341815432429,0 -76.42317642405271,-6.95624845220425,0 -76.4279353458395,-6.980043062037623,0 -76.43745319031245,-7.02763228260369,0 -76.43269426762629,-7.065703658696862,0 -76.4279353458395,-7.07046257958433,0 -76.41365857957976,-7.137087488196983,0 -76.38986396974639,-7.194194552336683,0 -76.37558720258727,-7.232265928429797,0 -76.34703367186643,-7.265578382736123,0 -76.30896229577331,-7.317926525089035,0 -76.23281954358703,-7.341721134922409,0 -76.1995070892807,-7.360756822968938,0 -76.17571247944733,-7.346480056709197,0 -76.13288218156737,-7.336962213135564,0 -76.0852929610013,-7.317926525089035,0 -76.05198050669497,-7.29889083704245,0 -76.00439128702823,-7.275096227209076,0 -75.96631991093511,-7.265578382736123,0 -75.90445392500857,-7.217989163069376,0 -75.89969500232246,-7.194194552336683,0 -75.89498253141863,-7.161207247016762,0 -75.86162362622935,-7.122810722836562,0 -75.82831117282234,-7.089498269429555,0 -75.78548087404306,-7.07046257958433,0 -75.69506135559703,-7.07046257958433,0 -75.64747213593029,-7.118051800150397,0 -75.61415968162396,-7.118051800150397,0 -75.57366268288649,-7.087158269438532,0 -75.53066108933774,-7.046419916945581,0 -75.4627638360821,-7.026050741148765,0 -75.41070927561253,-6.989838872565883,0 -75.36544444010877,-6.951363762927258,0 -75.34507526431196,-6.9060989274235,0 -75.44692114419541,-6.829148707246986,0 -75.5142223196043,-6.789686181571994,0 -75.55043244799902,-6.761832237068063,0 -75.59512399357743,-6.718302351172497,0 -75.67602566755051,-6.656436365246009,0 -75.71885596632973,-6.627882833625847,0 -75.74740949794995,-6.599329301106309,0 -75.7997576403028,-6.55649900322635,0 -75.81592507288377,-6.543497568258147,0 -75.83093130893275,-6.534207994203541,0 -75.85050444802181,-6.516598604841704,0 -75.85118021929162,-6.489147518842856,0 -75.82369886660939,-6.460994315035578,0 -75.7732788464416,-6.431254930170837,0 -75.68603849258233,-6.373257018296727,0 -75.61576516123319,-6.310765466652924,0 -75.5879856104475,-6.259066377611191,0 -75.57830274217776,-6.216260056556337,0 -75.59036507179059,-6.171026321407567,0 -75.6427132141435,-6.098282797912759,0 -75.69574120259438,-6.030978044101403,0 -75.81199486826853,-5.949396523130986,0 -75.8568647044425,-5.943277909148151,0 -75.9139717685822,-5.961633751996033,0 -75.94252530110174,-5.980669440042561,0 -75.98059667719485,-6.018740816135733,0 -76.03294481864845,-6.075847880275433,0 -76.05673942938114,-6.12343709994218,0 -76.09956972726104,-6.171026321407567,0 -76.142400025141,-6.251927993582001,0 -76.18998924570707,-6.304276136834176,0 -76.23281954358703,-6.328070746667549,0 -76.24233738716066,-6.370901045446828,0 -76.25185523163361,-6.394695654380882,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Frostius_erythrophthalmus">
+  <name>Frostius_erythrophthalmus</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Frostius_erythrophthalmus</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Frostius_erythrophthalmus]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Frostius erythrophthalmus</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>BUFONIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Frostius</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>erythrophthalmus</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -39.08055099523222,-14.09074092515351,0 -39.13188253674963,-14.03271396517732,0 -39.11529647335351,-13.83294766969914,0 -39.12753750994807,-13.64130041138481,0 -39.18663702567812,-13.45840976639755,0 -39.28543393043151,-13.29167262529137,0 -39.45416410139211,-13.22060792201796,0 -39.60122676780105,-13.19016778361629,0 -39.81551476619347,-13.21272441460002,0 -39.94760292733321,-13.26816829143348,0 -40.06363771061183,-13.34806420320035,0 -40.14378944802456,-13.46435481212484,0 -40.16514255228691,-13.57363051663498,0 -40.20323990889466,-13.74377197929334,0 -40.22153413019589,-13.92325830272847,0 -40.17945972508619,-14.13019997494882,0 -40.10875097437793,-14.30672103484784,0 -39.97732815686891,-14.43339732682512,0 -39.87190634410246,-14.48717408631501,0 -39.67413080589193,-14.52851806385752,0 -39.48844361198309,-14.49845240225653,0 -39.32931813212605,-14.4869027410686,0 -39.11625919490587,-14.4082258756236,0 -39.0120885702313,-14.3845414129558,0 -39.0120885702313,-14.32999537788436,0 -39.01598471482271,-14.29687814211252,0 -39.00234820740383,-14.25402054171457,0 -39.08055099523222,-14.09074092515351,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

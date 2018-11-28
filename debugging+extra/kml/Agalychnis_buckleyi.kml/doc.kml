@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Agalychnis buckleyi">
+  <name>Agalychnis buckleyi</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Agalychnis buckleyi</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Agalychnis buckleyi]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Agalychnis buckleyi</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>HYLIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Agalychnis</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>buckleyi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+<tr>
+<td>centroid_x</td>
+<td>-72.6345</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>centroid_y</td>
+<td>6.28133</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -72.39836587968154,6.689364032224376,0 -72.52360634825431,6.712135025611019,0 -72.63746131788548,6.655207540795402,0 -72.77408728270189,6.552738067407915,0 -72.94486973894726,6.336413622590669,0 -72.99041172841851,6.131474674916376,0 -72.95625523698953,5.949306722427366,0 -72.86517125984574,5.892379236712429,0 -72.75131628931524,5.869608242426523,0 -72.60330482735589,5.915150230998393,0 -72.45529336539647,6.02900520062957,0 -72.3300528968237,6.222558652060172,0 -72.2845109091511,6.473039588306392,0 -72.35282389110967,6.655207540795402,0 -72.36420938825262,6.655207540795402,0 -72.39836587968154,6.689364032224376,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Agalychnis buckleyi</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>HYLIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Agalychnis</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>buckleyi</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+<tr>
+<td>centroid_x</td>
+<td>-76.2915</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>centroid_y</td>
+<td>0.409326</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -74.93733172907599,2.397031632703715,0 -75.06257219585012,2.305947655559919,0 -75.31305313209634,2.089623211641936,0 -75.68877453601601,1.736672802008229,0 -76.00756845422075,1.383722393273899,0 -76.37190436099741,1.053542977026837,0 -77.11196167079442,0.3704131529447068,0 -77.53322506328601,-0.005308250974962903,0 -77.79509149577586,-0.3241021691796959,0 -78.00003044255084,-0.7567510579149257,0 -78.06834342630805,-0.9389190122025752,0 -78.09111441969469,-1.394338895223768,0 -78.04557243112276,-1.690361819142595,0 -77.92033196434863,-1.918071761102851,0 -77.69262202238838,-2.043312227876982,0 -77.3282861147124,-2.168552695550432,0 -77.18027465275299,-2.179938192693385,0 -76.98672120312097,-2.100239713591861,0 -76.96395020883506,-2.054697725919255,0 -76.92979371830541,-1.997770240204375,0 -76.91840822116245,-1.952228251632448,0 -76.95256471169205,-1.713132813428558,0 -76.99810670026398,-1.633434334327035,0 -77.25997313275383,-1.405724392366778,0 -77.3282861147124,-1.291869420936962,0 -77.33967161275467,-1.189399946650156,0 -77.35105710989768,-0.904762519874339,0 -77.21443114508122,-0.6087395959555693,0 -77.06641968312187,-0.3013311748937326,0 -76.70208377634515,0.05161923384059719,0 -76.36051886385445,0.4045696443736233,0 -76.00756845422075,0.7802910473939733,0 -75.74570202083157,0.8599895273948164,0 -75.62046155315812,0.8599895273948164,0 -75.19919816066653,1.053542977026837,0 -74.81209126140254,1.269867421844083,0 -74.56161032515632,1.463420872375423,0 -74.48191184515548,1.531733855233256,0 -74.33390038319607,1.736672802008229,0 -74.2883583946242,1.827756779152082,0 -74.2086599146233,2.180707187886469,0 -74.22004541176631,2.533657598419495,0 -74.25420190409454,2.693054556622542,0 -74.36805687462504,2.829680522338265,0 -74.47052634801253,2.818295025195312,0 -74.72100728425875,2.658898066092945,0 -74.93733172907599,2.397031632703715,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>6600aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

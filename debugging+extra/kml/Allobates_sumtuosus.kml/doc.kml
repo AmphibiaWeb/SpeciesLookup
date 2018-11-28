@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Allobates_sumtuosus">
+  <name>Allobates_sumtuosus</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Allobates_sumtuosus</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Allobates_sumtuosus]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Allobates sumtuosus</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>AROMOBATIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Allobates</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>sumtuosus</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -54.99007514455224,-3.401207702573345,0 -54.76733962532342,-3.532228597771507,0 -54.57080828297586,-3.532228597771507,0 -54.32186858416776,-3.427411882152569,0 -54.12533724182021,-3.309493076744047,0 -53.94190799016155,-2.968838752106649,0 -53.81088709586277,-2.470959352691921,0 -53.77158082739322,-2.06479458000581,0 -53.75847873760364,-1.632425628639794,0 -53.75847873760364,-1.147648319913969,0 -53.91570381058233,-0.7414835472278583,0 -54.08603097425004,-0.4532375790510059,0 -54.29566440458854,-0.2305020589228093,0 -54.57080828297586,-0.1649916117734165,0 -54.75423753463446,-0.2042978802429047,0 -54.88525842983262,-0.4008292216911968,0 -55.01627932413146,-0.6104626529290158,0 -55.18660648689979,-0.8069939943773079,0 -55.44864827459816,-0.8331981730572124,0 -55.64517961694571,-0.7807898147980836,0 -55.92032349533298,-0.6628710102888249,0 -56.09065065810137,-0.5580542946699438,0 -56.15616110525076,-0.4139313105814608,0 -56.4051008040588,-0.08637907483438312,0 -56.79816348785465,0.1625606239736612,0 -56.91608229326317,0.1756627137633018,0 -57.13881781339131,0.1625606239736612,0 -57.34845124372987,0.0446418185651396,0 -57.4925742278183,-0.1518895219838328,0 -57.58428885364765,-0.4532375790510059,0 -57.58428885364765,-0.7545856370174988,0 -57.45326796024813,-1.147648319913969,0 -57.11261363381209,-1.475200555661047,0 -56.65404050376617,-1.77654861272822,0 -56.37889662627822,-1.959977865286191,0 -55.99893603227201,-2.195815475203972,0 -55.68448588541526,-2.444755174012016,0 -55.43554618570784,-2.733001142188925,0 -55.26521902293951,-3.008145019676874,0 -54.99007514455224,-3.401207702573345,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Allobates sumtuosus</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>AROMOBATIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Allobates</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>sumtuosus</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -75.82320116200401,-5.462174410120895,0 -75.30329739176119,-5.462174410120895,0 -74.52344173774594,-5.284934488835518,0 -73.76721807185652,-5.048614593188859,0 -73.2354983080005,-4.717766739643253,0 -72.92828244437925,-4.316022917223791,0 -72.55017061098488,-3.737039174418328,0 -72.46745864759845,-3.44163930441033,0 -72.46745864759845,-3.205319408763671,0 -72.50290663203538,-2.992631503041366,0 -72.53835461557299,-2.803575587243529,0 -72.63288257437125,-2.649967654983243,0 -72.892834459043,-2.602703676033798,0 -73.10552236476531,-2.602703676033798,0 -73.29457828236178,-2.673599644008334,0 -73.51908218169729,-3.00444749755394,0 -73.67269011395757,-3.252583387713116,0 -73.79085006178087,-3.500719277872349,0 -74.01535396291502,-3.796119146981027,0 -74.1689618951753,-3.937911084728739,0 -74.39346579541007,-4.103335012400862,0 -74.7597616333926,-4.245126949249254,0 -75.03152951257692,-4.280574932786863,0 -75.46872131943331,-4.339654907148201,0 -75.64596124071863,-4.39873488061022,0 -75.84683315192837,-4.469630848584757,0 -75.98862508877681,-4.575974801895541,0 -76.0831530466757,-4.765030718592755,0 -76.0831530466757,-5.15495854560038,0 -76.00044108418865,-5.33219846778502,0 -75.82320116200401,-5.462174410120895,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

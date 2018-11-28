@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Anomaloglossus_shrevei">
+  <name>Anomaloglossus_shrevei</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Anomaloglossus_shrevei</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Anomaloglossus_shrevei]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Anomaloglossus shrevei</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>AROMOBATIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Anomaloglossus</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>shrevei</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -65.41035086629938,3.329148396980997,0 -65.36123021899937,3.550191310280809,0 -65.36123021899937,3.6238722807812,0 -65.41035086629938,3.771234222681301,0 -65.41035086629938,3.844915194081011,0 -65.45947151359945,3.918596164581402,0 -65.53315248499916,4.016837460080751,0 -65.65595410279957,4.016837460080751,0 -65.72963507419928,4.090518430581142,0 -65.77875572239861,4.188759726080548,0 -65.85243669289901,4.188759726080548,0 -66.02435895799948,4.164199401980852,0 -66.12260025259951,4.213320049280924,0 -66.17172089989958,4.287001019781314,0 -66.26996219539893,4.287001019781314,0 -66.44188446139873,4.262440696580939,0 -66.5401257550995,4.188759726080548,0 -66.6874876969996,4.115078754680837,0 -66.76116866929863,4.016837460080751,0 -66.73660834519893,3.820354870880635,0 -66.61380672559989,3.69755325218091,0 -66.56468607919913,3.599311957580824,0 -66.51556543189912,3.550191310280809,0 -66.36820348999902,3.451950015680723,0 -66.29452251859931,3.378269045180332,0 -66.22084154809892,3.378269045180332,0 -66.17172089989958,3.230907102380911,0 -66.04891928209918,3.230907102380911,0 -65.80331604469967,3.230907102380911,0 -65.72963507419928,3.280027749680926,0 -65.68051442689927,3.255467425581287,0 -65.58227313229918,3.255467425581287,0 -65.41035086629938,3.329148396980997,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

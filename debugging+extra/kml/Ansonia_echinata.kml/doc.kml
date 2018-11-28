@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Ansonia_echinata">
+  <name>Ansonia_echinata</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Ansonia_echinata</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Ansonia_echinata]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Ansonia echinata</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>AmphibiaWeb</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2016</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>AmphibiaWeb (amphibiaweb.org), University of California, Berkeley.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td>Inger and Steubing(2009)</td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>BUFONIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Ansonia</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>echinata</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 111.2882450105516,2.514263386281822,0 111.2426105028493,2.44587574522592,0 111.1817644925796,2.377484617343303,0 111.1817644925796,2.255892083004312,0 111.1513414874447,2.15709063821911,0 111.2273990002819,2.15709063821911,0 111.3643025233887,2.134289382726037,0 111.4327542849421,2.096286540533073,0 111.5544463054816,2.058282775679693,0 111.6457153208862,2.043081015133736,0 111.8358591029791,2.043081015133736,0 111.9803683773695,2.050681913459155,0 112.0260028850718,2.119088357636723,0 112.2009351645973,2.058282775679693,0 112.3758674441228,2.0202781048639,0 112.6116457339179,1.98227254478536,0 112.7941837647271,1.98227254478536,0 113.060385059657,1.98227254478536,0 113.1288368212106,2.111487789064483,0 113.1592598263453,2.210292232348806,0 113.2505288417499,2.30149050407228,0 113.4939128828288,2.3546868166768,0 113.6688451623543,2.537058474974599,0 113.7601141777589,2.795373863305925,0 113.5851818982334,3.00806172636342,0 113.3722208622894,3.14476791788825,0 113.2885575981685,3.137173592390663,0 113.1516540750616,3.14476791788825,0 113.0147505519549,3.175144665510485,0 112.8170010185782,3.099201140001573,0 112.6116457339179,3.030847303024248,0 112.3910789466902,3.00046642814822,0 112.1476949056113,2.939702153685357,0 111.8662821081138,2.878934569743544,0 111.6457153208862,2.84095317947845,0 111.5240233003467,2.772583539489797,0 111.4023312798073,2.666222948289881,0 111.3643025233887,2.802970539728735,0 111.2882450105516,2.825760272584317,0 111.2654277567005,2.742195758764381,0 111.2730335079841,2.628234775423853,0 111.2882450105516,2.514263386281822,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

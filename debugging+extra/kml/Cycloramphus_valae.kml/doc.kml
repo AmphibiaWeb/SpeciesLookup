@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Cycloramphus_valae">
+  <name>Cycloramphus_valae</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Cycloramphus_valae</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Cycloramphus_valae]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Cycloramphus valae</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>CYCLORAMPHIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Cycloramphus</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>valae</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -49.92852965192185,-29.34554424027442,0 -49.9093156552932,-29.31992557690381,0 -49.87729232697927,-29.25587892117522,0 -49.85807833035062,-29.17261826701935,0 -49.82605500113738,-29.07014361623487,0 -49.70436635282488,-28.83957565129521,0 -49.621105698669,-28.73069633376872,0 -49.48020305372791,-28.64103101466952,0 -49.42256106294263,-28.56417502725566,0 -49.38413306878607,-28.40405838388728,0 -49.40334706631404,-28.2311324106322,0 -49.40975173215668,-28.10303909737638,0 -49.45458439215594,-28.05180177243381,0 -49.51863104788453,-28.04539710569185,0 -49.59548703709703,-28.05820643737712,0 -49.621105698669,-28.10303909737638,0 -49.63391503125365,-28.1927044173749,0 -49.67234302541027,-28.36563038973065,0 -49.67874769125291,-28.44889104388653,0 -49.71077101866752,-28.51293770141376,0 -49.80684100360941,-28.60260302141228,0 -49.94133898360718,-28.73069633376872,0 -50.03740896944834,-28.98688296207899,0 -50.16550228270415,-29.15980893533407,0 -50.17831161438943,-29.26868825196124,0 -50.1462882860755,-29.35194890611706,0 -50.08224162944759,-29.40318623105969,0 -49.93493431776449,-29.37756756858835,0 -49.92852965192185,-29.34554424027442,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

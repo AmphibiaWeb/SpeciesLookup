@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Amolops_hainanensis">
+  <name>Amolops_hainanensis</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Amolops_hainanensis</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Amolops_hainanensis]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Presence</td>
+<td>1</td>
+</tr>
+<tr>
+<td>id_no</td>
+<td>58209</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Amolops hainanensis</td>
+</tr>
+<tr>
+<td>origin</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>seasonal</td>
+<td>1</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>dist_comm</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>island</td>
+<td></td>
+</tr>
+<tr>
+<td>subspecies</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>subpop</td>
+<td></td>
+</tr>
+<tr>
+<td>legend</td>
+<td>Extant (resident)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>tax_comm</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>RANIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Amolops</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>hainanensis</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>code</td>
+<td>EN</td>
+</tr>
+<tr>
+<td>Colloquial</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vetted_by</td>
+<td></td>
+</tr>
+<tr>
+<td>shape_Leng</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 109.619298188061,19.43577841244382,0 109.5015109327834,19.44593248589558,0 109.3045219020642,19.44999411473668,0 109.1725189435944,19.4073470051602,0 109.0892555393118,19.37079234019438,0 109.0453594665662,19.28529814329471,0 108.9547179549697,19.15840002544087,0 108.9365896522907,19.08588681472475,0 108.8822047442536,18.95898869777022,0 108.8822047442536,18.86834718527445,0 108.8822047442536,18.77770567277861,0 108.9003330469326,18.72332076474157,0 109.0091028621075,18.59642264688768,0 109.0634877701446,18.57829434510796,0 109.154129281741,18.56016604242899,0 109.2266424915578,18.46952452993315,0 109.2810273995949,18.43326792457509,0 109.353540610311,18.41513962189606,0 109.50408898332,18.36980064628284,0 109.6270321022498,18.36980064628284,0 109.6979783576152,18.45139622725412,0 109.7161066602942,18.57829434510796,0 109.788619870111,18.63267925224574,0 109.8421825612762,18.66947449934872,0 110.0265972387716,18.70789422423911,0 110.1495403577014,18.70789422423911,0 110.2055708281313,18.77770567277861,0 110.3143406442054,18.83209057991638,0 110.3868538540222,18.88647548795348,0 110.3868538540222,18.97711700044926,0 110.3666380162316,19.09053990519254,0 110.2671280929872,19.15552597744198,0 110.2407275023724,19.16364923512413,0 110.2183885388001,19.17583412434539,0 110.1554332823202,19.21441960418144,0 110.0599849888163,19.26925160207981,0 109.9665675101825,19.30783708281518,0 109.8772116621885,19.35657663700226,0 109.8122255899391,19.3971929317085,0 109.7350546293677,19.43374759667432,0 109.619298188061,19.43577841244382,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

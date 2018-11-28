@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Ameerega_bassleri">
+  <name>Ameerega_bassleri</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Ameerega_bassleri</name>
+    <Snippet></Snippet>
+    <description><![CDATA[Ameerega_bassleri]]></description>
+    <Placemark id="ID_00000">
+      <name>AMPHIBIA</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>AMPHIBIA</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>binomial</td>
+<td>Ameerega bassleri</td>
+</tr>
+<tr>
+<td>compiler</td>
+<td>IUCN</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>year</td>
+<td>2008</td>
+</tr>
+<tr>
+<td>citation</td>
+<td>IUCN (International Union for Conservation of Nature), Conservation International &amp; NatureServe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>source</td>
+<td></td>
+</tr>
+<tr>
+<td>kingdom_na</td>
+<td>ANIMALIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>phylum_nam</td>
+<td>CHORDATA</td>
+</tr>
+<tr>
+<td>class_name</td>
+<td>AMPHIBIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>order_name</td>
+<td>ANURA</td>
+</tr>
+<tr>
+<td>family_nam</td>
+<td>DENDROBATIDAE</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>genus_name</td>
+<td>Ameerega</td>
+</tr>
+<tr>
+<td>species_na</td>
+<td>bassleri</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Colloquial</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -76.31894287381454,-7.200562951219183,0 -76.25907092408386,-7.050883075993113,0 -76.21915629122981,-6.951096493408386,0 -76.1493056826111,-6.841331251935685,0 -76.06947641600374,-6.771480644216297,0 -75.94973251564306,-6.7116086935863,0 -75.81003130020429,-6.621800768990227,0 -75.7900739833276,-6.561928819259549,0 -75.78009532533895,-6.482099552652187,0 -75.82998861708097,-6.362355653190775,0 -75.91979654077767,-6.252590411718074,0 -76.16926299858847,-6.162782487122058,0 -76.42870811528724,-6.043038586761327,0 -76.5085373818946,-5.993145295019303,0 -76.62828128135601,-5.893358712434576,0 -76.72806786394074,-5.783593470961876,0 -76.85779042229012,-5.663849570601144,0 -76.98751297974019,-5.584020304893102,0 -77.13719285496626,-5.514169697173713,0 -77.32678736304632,-5.454297747443036,0 -77.46648857938442,-5.444319088555062,0 -77.53633918710375,-5.424361771678377,0 -77.62614711169982,-5.414383113689723,0 -77.71595503719516,-5.454297747443036,0 -77.75586967004921,-5.544105672039109,0 -77.75586967004921,-5.713742863242487,0 -77.7059763792065,-5.863422736669918,0 -77.65608308656516,-5.933273346187946,0 -77.53633918710375,-6.102910537391324,0 -77.39663797076571,-6.23263309484139,0 -77.23697943755099,-6.352376995202121,0 -77.04738493037019,-6.442184918898818,0 -76.9176623720208,-6.551950161270895,0 -76.83783310631276,-6.67169405983293,0 -76.70811054796337,-6.86128856791305,0 -76.67817457309803,-7.01096844313912,0 -76.60832396537865,-7.11075502572379,0 -76.51851603988331,-7.200562951219183,0 -76.43868677327595,-7.210541609207837,0 -76.36883616465724,-7.230498926084522,0 -76.31894287381454,-7.200562951219183,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>00f0f0f0</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>4c00aaff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>
