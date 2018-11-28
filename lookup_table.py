@@ -1,12 +1,18 @@
 # this script should create lookup tables for individual range maps
 import os
-import time
 import kmlparserclass as k
 
 
 class grid_cell:
 
     def __init__(self, left_top_long, left_top_lat, right_bottom_long, right_bottom_lat):
+        """
+        Each cell is a rectangle that is determined by the parameters
+        :param left_top_long:
+        :param left_top_lat:
+        :param right_bottom_long:
+        :param right_bottom_lat:
+        """
         self.left_top_long = left_top_long
         self.left_top_lat = left_top_lat
         self.right_bottom_long = right_bottom_long
@@ -15,13 +21,18 @@ class grid_cell:
         # static method here
 
     def chop(long_range, lat_range, interval):
+        """
+        chop up the entire world into a matrix of grid cells
+        :param lat_range: not used because it's assumed to be default
+        :param interval: not used because it's assumed to be default
+        :return: a matrix of grid cells
+        """
         cells = []
         cells_in_grid = [None] * (360 // interval[0])
         for i in range(360 // interval[0]):
             cell_array = [None] * (180 // interval[1])
             cells_in_grid[i] = cell_array
             for j in range(180 // interval[1]):
-
                 # add a grid cell
                 cell = grid_cell(-180 + i * interval[0], -90 + (j + 1) * interval[
                     1], -180 + (i + 1) * interval[0], -90 + j * interval[1])
@@ -37,10 +48,17 @@ class grid_cell:
         return int((longa + 180) / interval[0] // 1), int((lat + 90) / interval[1] // 1)
 
     def __repr__(self):
-        return str(self.left_top_long) + str(self.left_top_lat) + str(self.right_bottom_long) + str(self.right_bottom_lat) + str(self.species)
+        return str(self.left_top_long) + str(self.left_top_lat) + str(self.right_bottom_long) + str(
+            self.right_bottom_lat) + str(self.species)
 
 
 def create_table(long_interval=1, lat_interval=1):
+    """
+
+    :param long_interval:
+    :param lat_interval:
+    :return: a matrix table of grid cells, each containing species' scientific name
+    """
     # what we are going to return
     long_range = (-180, 180)
     lat_range = (-90, 90)
@@ -58,15 +76,14 @@ def create_table(long_interval=1, lat_interval=1):
     all_species = [name.split('.')[0] for name in list(
         os.walk('range_shapefiles'))[0][2] if name]
 
-    # not good for bad kmz handling
-    # parsers = [k.parser(specie) for specie in all_species]
     parsers = []
+    # insert specie into the parsers
     for specie in all_species:
         try:
             p = k.parser(specie)
             parsers.append(p)
-        except KeyError: 
-            print(specie," has bad kmz files")
+        except KeyError:
+            print(specie, " has bad kmz files")
 
     for cell in cells:
         for parser in parsers:
@@ -78,9 +95,4 @@ def create_table(long_interval=1, lat_interval=1):
         # "), (", cell.right_bottom_long, " ,", cell.right_bottom_lat, ")")
         ###print("Species occurring in this regions are :", cell.species)
     return cells_in_grid
-    #
-#start = time.clock()
-# create_table()
-# possibly dump this into a json file
-#stop = time.clock()
-#print("total runtime is ", stop - start)
+

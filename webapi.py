@@ -18,6 +18,10 @@ grid_cells = table.create_table()
 
 @app.route('/species_lookup/')
 def api_root():
+    """
+
+    :return: instruction on how to use this
+    """
     instruction = """Welcome to Species Lookup web api! 
     Try formulate your query in this format( beagle.bnhm.berkeley.edu/species_lookup/search/[longitude,latitude]) to get proper result
     here's an example: beagle.bnhm.berkeley.edu/species_lookup/search/-122.264776,37.870871
@@ -27,6 +31,11 @@ def api_root():
 
 @app.route('/species_lookup/search/<points>')
 def get(points):
+    """
+
+    :param points: (long,lat)
+    :return: a count of species and their scientific names
+    """
     try:
         # parse input coordinates
         longa, lat = float(points.split(",")[0]), float(points.split(",")[1])
