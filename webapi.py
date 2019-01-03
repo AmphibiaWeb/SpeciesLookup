@@ -4,16 +4,12 @@ import os
 import kmlparserclass as k
 import ray_casting as r
 import lookup_table as table
-from os import listdir
-from os.path import isfile, join
+import pickle
 
 os.chdir("/home/chenyu_shi/SpeciesLookup")
 app = Flask(__name__)
 
-# grabbing all the species names from kmz
-onlyfiles = [f for f in listdir("range_shapefiles") if isfile(join("range_shapefiles", f))]
-all_species = [name.split(",")[0] for name in onlyfiles if name]
-grid_cells = table.create_table()
+grid_cells = pickle.load("grid.p")
 
 
 @app.route('/species_lookup/')
