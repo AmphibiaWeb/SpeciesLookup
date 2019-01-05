@@ -1,5 +1,5 @@
 # everything to do with api creation
-from flask import Flask, current_app
+from flask import Flask, current_app, jsonify
 import os
 import kmlparserclass as k
 import ray_casting as r
@@ -52,6 +52,30 @@ def get(points):
                 result.append(species)
         result.append("count: " + str(len(result)))
         return str(result), 200
+    except:
+        message = """unknown error, try specieslookup.berkeley.edu/about/ for instructions on query formatting"""
+        return message, 400
+
+@app.route('/search_json/<points>')
+def get(points):
+    """
+
+    :param points: (long,lat)
+    :return: a count of species and their scientific names
+    """
+    try:
+        # parse input coordinates
+        longa, lat = float(points.split(",")[0]), float(points.split(",")[1])
+        i, j = table.grid_cell.array_index(longa, lat, (1, 1))
+        point = r.points(longa, lat)
+        cell = grid_cells[i][j]
+        result = []
+        for species in cell.species:
+            par = k.parser(species)
+            if par.inside(point):
+                # check cached results to see if each specie's range map contains this point
+                result.append(species)
+        return jsonify(species=result, length=len(result)), 200
     except:
         message = """unknown error, try specieslookup.berkeley.edu/about/ for instructions on query formatting"""
         return message, 400
