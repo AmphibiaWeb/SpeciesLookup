@@ -1,5 +1,5 @@
 # everything to do with api creation
-from flask import Flask
+from flask import Flask, current_app
 import os
 import kmlparserclass as k
 import ray_casting as r
@@ -14,21 +14,24 @@ fileObject = open(file_Name, 'rb')
 grid_cells = pickle.load(fileObject)
 fileObject.close()
 
+@app.route('/')
+def home():
+    return current_app.send_static_file("index.html")
 
-@app.route('/species_lookup/')
+@app.route('/about/')
 def api_root():
     """
 
     :return: instruction on how to use this
     """
     instruction = """Welcome to Species Lookup web api! 
-    Try formulate your query in this format( beagle.bnhm.berkeley.edu/species_lookup/search/[longitude,latitude]) to get proper result
-    here's an example: beagle.bnhm.berkeley.edu/species_lookup/search/-122.264776,37.870871
+    Try formulate your query in this format( specieslookup.berkeley.edu/search/[longitude,latitude]) to get proper result
+    here's an example: specieslookup.berkeley.edu/search/-122.264776,37.870871
     Note: do not add space between long and lat """
     return instruction
 
 
-@app.route('/species_lookup/search/<points>')
+@app.route('/search/<points>')
 def get(points):
     """
 
@@ -50,7 +53,7 @@ def get(points):
         result.append("count: " + str(len(result)))
         return str(result), 200
     except:
-        message = """unknown error, try beagle.berkeley.edu/species_lookup for instructions on query formatting"""
+        message = """unknown error, try specieslookup.berkeley.edu/about/ for instructions on query formatting"""
         return message, 400
 
 if __name__ == '__main__':
