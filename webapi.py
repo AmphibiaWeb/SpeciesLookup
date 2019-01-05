@@ -10,7 +10,7 @@ os.chdir("/home/chenyu_shi/SpeciesLookup")
 app = Flask(__name__)
 
 file_Name = "gridtable"
-fileObject = open(file_Name, 'r')
+fileObject = open(file_Name, 'rb')
 grid_cells = pickle.load(fileObject)
 fileObject.close()
 
