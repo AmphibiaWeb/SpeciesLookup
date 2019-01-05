@@ -9,7 +9,10 @@ import pickle
 os.chdir("/home/chenyu_shi/SpeciesLookup")
 app = Flask(__name__)
 
-grid_cells = pickle.load("grid.p")
+file_Name = "gridtable"
+fileObject = open(file_Name, 'r')
+grid_cells = pickle.load(fileObject)
+fileObject.close()
 
 
 @app.route('/species_lookup/')

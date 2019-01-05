@@ -12,7 +12,10 @@ if __name__ == '__main__':
     onlyfiles = [f for f in listdir("range_shapefiles") if isfile(join("range_shapefiles", f))]
     all_species = [name.split(",")[0] for name in onlyfiles if name]
     grid_cells = table.create_table()
-    pickle.dump(grid_cells, "grid.p")
+    file_Name = "gridtable"
+    fileObject = open(file_Name, 'wb')
+    pickle.dump(grid_cells, fileObject)
+    fileObject.close()
 
 
 
