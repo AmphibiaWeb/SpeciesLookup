@@ -7,7 +7,7 @@ import lookup_table as table
 import pickle
 
 os.chdir("/home/chenyu_shi/SpeciesLookup")
-app = Flask(__name__)
+app = Flask(__name__, static_url_path='/static')
 
 file_Name = "gridtable"
 fileObject = open(file_Name, 'rb')
