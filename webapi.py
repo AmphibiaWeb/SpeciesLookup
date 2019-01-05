@@ -57,7 +57,7 @@ def get(points):
         return message, 400
 
 @app.route('/search_json/<points>')
-def get(points):
+def get_json(points):
     """
 
     :param points: (long,lat)
