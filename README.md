@@ -13,5 +13,8 @@ viz.py visualizes range maps and query points.
 
 webapi.py puts everything together into a web service 
 
+### Note on KMZ
+These are for testing purposes only; in production we will use the AmphibiaWeb live directory for ranges which is updated regularly.
+
 ## Updates
 Apache server and Python 3 need to installed on the server
