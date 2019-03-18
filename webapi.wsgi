@@ -1,5 +1,5 @@
 # activate Python virtual environment
-# PlEASE IGNORE THIS LINE 11
+# PlEASE IGNORE THIS LINE 1
 import sys
 activate_this = '/home/chenyu_shi/venv/bin/activate_this.py'
 with open(activate_this) as file_:
