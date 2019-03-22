@@ -74,8 +74,8 @@ def get_json(points):
             par = k.parser(species)
             if par.inside(point):
                 # check cached results to see if each specie's range map contains this point
-                result.append({"family": par.family, "scientific_name": species, "url": par.url})
-
+                result.append({"class": par.class_name,"order": par.order,"family": par.family, "scientific_name": species, "url": par.url})
+        result.sort(key=lambda x: x["scientific_name"])
         return jsonify(count=len(result), species=result), 200
     except:
         message = """unknown error, try specieslookup.berkeley.edu/about/ for instructions on query formatting"""

@@ -36,6 +36,14 @@ class parser:
         # brute force string manipulation
         self.family = description[index:].split("<td>")[1].split("</td>")[0].lower()
 
+        index = description.find("class_name")
+        # brute force string manipulation
+        self.class_name = description[index:].split("<td>")[1].split("</td>")[0].lower()
+
+        index = description.find("order_name")
+        # brute force string manipulation
+        self.order = description[index:].split("<td>")[1].split("</td>")[0].lower()
+
         # url formatting
         genus, sp = self.scientific_name.split("_")
         self.url = "https://amphibiaweb.org/cgi/amphib_query?where-genus={}&where-species={}".format(genus,sp)
