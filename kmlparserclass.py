@@ -30,6 +30,16 @@ class parser:
         with ZipFile(self.kmz_path) as myzip:
             with myzip.open('doc.kml') as myfile:
                 root = ET.fromstring(myfile.read())
+        # finding family name
+        description = root.findall(".//{}description".format(self.namespace))[1].text
+        index = description.find("family_nam")
+        # brute force string manipulation
+        self.family = description[index:].split("<td>")[1].split("</td>")[0].lower()
+
+        # url formatting
+        genus, sp = self.scientific_name.split("_")
+        self.url = "https://amphibiaweb.org/cgi/amphib_query?where-genus={}&where-species={}".format(genus,sp)
+        # polygon manipulation
         polys = root.findall(".//{0}Polygon".format(self.namespace))
         self.outer = []
         self.inner = []
@@ -127,3 +137,4 @@ class parser:
             if poly.is_inside(query_point):
                 b = True
         return a and not b
+
