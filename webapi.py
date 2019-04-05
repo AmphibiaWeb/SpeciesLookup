@@ -5,6 +5,7 @@ import kmlparserclass as k
 import ray_casting as r
 import lookup_table as table
 import pickle
+import datetime
 
 os.chdir("/home/chenyu_shi/SpeciesLookup")
 app = Flask(__name__, static_url_path='/static')
@@ -14,9 +15,11 @@ fileObject = open(file_Name, 'rb')
 grid_cells = pickle.load(fileObject)
 fileObject.close()
 
+
 @app.route('/')
 def home():
     return current_app.send_static_file("index.html")
+
 
 @app.route('/about/')
 def api_root():
@@ -56,6 +59,7 @@ def get(points):
         message = """unknown error, try specieslookup.berkeley.edu/about/ for instructions on query formatting"""
         return message, 400
 
+
 @app.route('/search_json/<points>')
 def get_json(points):
     """
@@ -74,12 +78,16 @@ def get_json(points):
             par = k.parser(species)
             if par.inside(point):
                 # check cached results to see if each specie's range map contains this point
-                result.append({"class": par.class_name,"order": par.order,"family": par.family, "scientific_name": species, "url": par.url})
+                now = datetime.datetime.now()
+                result.append(
+                    {"class": par.class_name, "order": par.order, "family": par.family, "scientific_name": species,
+                     "url": par.url, "index_date": str(now)})
         result.sort(key=lambda x: x["scientific_name"])
         return jsonify(count=len(result), species=result), 200
     except:
         message = """unknown error, try specieslookup.berkeley.edu/about/ for instructions on query formatting"""
         return message, 400
+
 
 if __name__ == '__main__':
     app.run()
