@@ -1,6 +1,9 @@
 # Species Lookup
 Aim: create a service to generate a list of species expected to occur at a given point based on range maps (polygon intersections)    
 Credit: conceived and written by Chenyu Shi (@Chenyu-Shi), undergraduate apprentice at the Museum of Vertebrate Zoology
+
+#Archived!
+Please see its active home at: [BNHM/Specieslookup](https://github.com/BNHM/SpeciesLookup)
 ## File structure
 debug.py tests the kmlparserclass.py functions locally
 
